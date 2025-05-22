@@ -1,0 +1,3288 @@
+[
+    {
+        "topic": "Ice-cream Man",
+        "language": "english",
+        "article": "The poem 'Ice-cream Man' talks about the joy and excitement that an ice cream vendor brings to children. The vendor's cart is a source of happiness as he serves ice creams to children, and the poem conveys the sweetness of the moment. The poem celebrates simple pleasures in life and the happiness shared through small gestures.",
+        "diagram": "diagrams/ice_cream_man.png",
+        "quiz": [
+            {
+                "question": "What does the ice-cream man sell?",
+                "options": [
+                    "Ice cream",
+                    "Cakes",
+                    "Fruits"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What do children feel when they see the ice-cream man?",
+                "options": [
+                    "Happy",
+                    "Sad",
+                    "Bored"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is the mood of the poem?",
+                "options": [
+                    "Sad",
+                    "Exciting",
+                    "Angry"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What does the ice-cream man bring to children?",
+                "options": [
+                    "Happiness",
+                    "Books",
+                    "Games"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Where does the ice-cream man go?",
+                "options": [
+                    "To the park",
+                    "To the streets",
+                    "To the school"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Wonderful Waste!",
+        "language": "english",
+        "article": "In 'Wonderful Waste!', a king throws away leftover food, but a clever cook turns it into something valuable. The poem shows how something discarded can be transformed into something useful, teaching a valuable lesson about creativity and the importance of not wasting resources.",
+        "diagram": "diagrams/wonderful_waste.png",
+        "quiz": [
+            {
+                "question": "What does the cook do with the leftover food?",
+                "options": [
+                    "Throws it away",
+                    "Turns it into something valuable",
+                    "Eats it"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is the theme of the poem?",
+                "options": [
+                    "Wastefulness",
+                    "Creativity",
+                    "Greed"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Who is the king in the poem?",
+                "options": [
+                    "A generous ruler",
+                    "A wasteful king",
+                    "A kind cook"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What does the poem teach us?",
+                "options": [
+                    "Throwing away food is good",
+                    "Don’t waste anything",
+                    "Waste is valuable"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What happens to the leftover food?",
+                "options": [
+                    "It is eaten",
+                    "It is wasted",
+                    "It is transformed into a dish"
+                ],
+                "answerIndex": 2
+            }
+        ]
+    },
+    {
+        "topic": "Teamwork",
+        "language": "english",
+        "article": "'Teamwork' is a poem that focuses on the power of working together. The poem explains that when people work as a team, they can achieve more than if they work alone. Teamwork helps in solving problems, sharing responsibilities, and achieving goals that are difficult to reach alone.",
+        "diagram": "diagrams/teamwork.png",
+        "quiz": [
+            {
+                "question": "What is the main idea of the poem 'Teamwork'?",
+                "options": [
+                    "Working together",
+                    "Fighting alone",
+                    "Working for yourself"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does teamwork help with?",
+                "options": [
+                    "Achieving goals",
+                    "Taking rest",
+                    "Being lazy"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is better than working alone according to the poem?",
+                "options": [
+                    "Working with a partner",
+                    "Working with a team",
+                    "Working in silence"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What happens when people work together?",
+                "options": [
+                    "Nothing",
+                    "They can achieve more",
+                    "They get tired"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is teamwork important for?",
+                "options": [
+                    "Success",
+                    "Failure",
+                    "Boredom"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Flying Together",
+        "language": "english",
+        "article": "'Flying Together' is a poem that emphasizes the importance of unity and collective effort. It narrates how birds fly together in a flock, teaching that when we work as a group, we are stronger and can achieve greater heights. The poem is a metaphor for working together and supporting one another in life.",
+        "diagram": "diagrams/flying_together.png",
+        "quiz": [
+            {
+                "question": "What do the birds do in the poem?",
+                "options": [
+                    "Fly alone",
+                    "Fly together",
+                    "Sing alone"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What does the poem teach us?",
+                "options": [
+                    "Working together makes us stronger",
+                    "Flying alone is better",
+                    "We should fight with others"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How do the birds help each other?",
+                "options": [
+                    "By singing",
+                    "By flying together",
+                    "By resting"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is the benefit of flying together?",
+                "options": [
+                    "It is easier",
+                    "It is difficult",
+                    "It is unnecessary"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the poem compare teamwork to?",
+                "options": [
+                    "Birds flying together",
+                    "Birds resting",
+                    "Birds singing alone"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "My Shadow",
+        "language": "english",
+        "article": "In the poem 'My Shadow', the poet describes the relationship with his shadow, which follows him wherever he goes. The poem reflects a sense of companionship and shows how a shadow is a constant presence, no matter where you are or what you do.",
+        "diagram": "diagrams/my_shadow.png",
+        "quiz": [
+            {
+                "question": "What follows the poet wherever he goes?",
+                "options": [
+                    "His friend",
+                    "His shadow",
+                    "His pet"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "How does the poet describe his shadow?",
+                "options": [
+                    "Always with him",
+                    "Only in the dark",
+                    "Moving alone"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is the shadow a symbol of?",
+                "options": [
+                    "Friendship",
+                    "Loneliness",
+                    "Companionship"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Where does the shadow go?",
+                "options": [
+                    "Everywhere the poet goes",
+                    "Nowhere",
+                    "In the sky"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the poet think of his shadow?",
+                "options": [
+                    "It is his companion",
+                    "It is a nuisance",
+                    "It is an enemy"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Robinson Crusoe Discovers a Footprint",
+        "language": "english",
+        "article": "The poem 'Robinson Crusoe Discovers a Footprint' tells the story of Robinson Crusoe, who, while living alone on an island, discovers a footprint on the sand. This discovery is a turning point in the story, as it suggests that he is not alone. The poem explores feelings of isolation, fear, and curiosity.",
+        "diagram": "diagrams/robinson_crusoe.png",
+        "quiz": [
+            {
+                "question": "What does Robinson Crusoe find on the island?",
+                "options": [
+                    "A treasure",
+                    "A footprint",
+                    "A house"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is the significance of the footprint?",
+                "options": [
+                    "It shows he is not alone",
+                    "It is a sign of danger",
+                    "It is just a mark"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How does Crusoe feel when he finds the footprint?",
+                "options": [
+                    "Curious",
+                    "Happy",
+                    "Fearful"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What is the main theme of the poem?",
+                "options": [
+                    "Fear of the unknown",
+                    "Happiness",
+                    "Loneliness"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Who is the author of 'Robinson Crusoe'?",
+                "options": [
+                    "Jonathan Swift",
+                    "Daniel Defoe",
+                    "Mark Twain"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Crying",
+        "language": "english",
+        "article": "'Crying' is a poem that talks about the emotional release and relief that comes with crying. The poem describes how crying can help express feelings and bring comfort. It highlights the importance of showing emotions and how crying can be a healing process.",
+        "diagram": "diagrams/crying.png",
+        "quiz": [
+            {
+                "question": "What is the main idea of the poem 'Crying'?",
+                "options": [
+                    "Crying is a sign of weakness",
+                    "Crying can bring relief",
+                    "Crying is useless"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why do we cry according to the poem?",
+                "options": [
+                    "To show emotions",
+                    "To cause trouble",
+                    "To get attention"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does crying help with?",
+                "options": [
+                    "Releasing feelings",
+                    "Hiding feelings",
+                    "Making people sad"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Is crying shown as positive in the poem?",
+                "options": [
+                    "Yes",
+                    "No",
+                    "Maybe"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What emotion is most related to crying?",
+                "options": [
+                    "Happiness",
+                    "Sadness",
+                    "Anger"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "My Elder Brother",
+        "language": "english",
+        "article": "'My Elder Brother' is a poem about the poet’s relationship with his elder brother. It describes how the elder brother is a source of guidance and support. The poem emphasizes the bond between siblings and how the elder brother serves as a role model and protector.",
+        "diagram": "diagrams/my_elder_brother.png",
+        "quiz": [
+            {
+                "question": "What role does the elder brother play?",
+                "options": [
+                    "A guide",
+                    "A teacher",
+                    "A friend"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How does the poet feel about his elder brother?",
+                "options": [
+                    "Respectful",
+                    "Jealous",
+                    "Angry"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What qualities does the elder brother possess?",
+                "options": [
+                    "Kindness",
+                    "Wisdom",
+                    "Both"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Who does the poet admire the most?",
+                "options": [
+                    "His elder brother",
+                    "His father",
+                    "His friend"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is the relationship between the poet and his elder brother?",
+                "options": [
+                    "Teacher-student",
+                    "Sibling bond",
+                    "Parent-child"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "The Lazy Frog",
+        "language": "english",
+        "article": "'The Lazy Frog' tells the story of a frog who spends all his time sleeping and avoiding work. The poem illustrates the consequences of laziness and highlights the importance of hard work and responsibility. It encourages the reader to be active and not waste time.",
+        "diagram": "diagrams/the_lazy_frog.png",
+        "quiz": [
+            {
+                "question": "What does the frog like to do?",
+                "options": [
+                    "Sleep",
+                    "Work",
+                    "Swim"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What happens because of the frog's laziness?",
+                "options": [
+                    "He is happy",
+                    "He gets into trouble",
+                    "He becomes rich"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is the lesson of the poem?",
+                "options": [
+                    "Work hard",
+                    "Be lazy",
+                    "Sleep all day"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the frog avoid doing?",
+                "options": [
+                    "Playing",
+                    "Work",
+                    "Eating"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why should we avoid being lazy?",
+                "options": [
+                    "To achieve more",
+                    "To waste time",
+                    "To get bored"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Rip Van Winkle",
+        "language": "english",
+        "article": "'Rip Van Winkle' tells the story of a man who falls asleep for twenty years and wakes up to a completely changed world. The poem explores themes of time, change, and the passage of life. It is a reflection on how time can alter everything around us, and the importance of staying aware of the changes happening in the world.",
+        "diagram": "diagrams/rip_van_winkle.png",
+        "quiz": [
+            {
+                "question": "What happens to Rip Van Winkle?",
+                "options": [
+                    "He wakes up after 20 years",
+                    "He goes on an adventure",
+                    "He becomes rich"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How long does Rip Van Winkle sleep?",
+                "options": [
+                    "10 years",
+                    "20 years",
+                    "5 years"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is different when Rip Van Winkle wakes up?",
+                "options": [
+                    "Everything is the same",
+                    "Everything has changed",
+                    "Nothing has changed"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is the central theme of the poem?",
+                "options": [
+                    "Time and change",
+                    "Adventure",
+                    "Loneliness"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does Rip Van Winkle's story symbolize?",
+                "options": [
+                    "The passage of time",
+                    "The importance of wealth",
+                    "The need for adventure"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Class Discussion",
+        "language": "english",
+        "article": "'Class Discussion' is a poem that captures the essence of a lively and thoughtful classroom discussion. The poem portrays the exchange of ideas, where every student participates in a respectful manner, sharing thoughts and learning from each other. It emphasizes the importance of dialogue and learning in a group setting.",
+        "diagram": "diagrams/class_discussion.png",
+        "quiz": [
+            {
+                "question": "What happens in the class discussion?",
+                "options": [
+                    "Students argue",
+                    "Students share ideas",
+                    "Students are silent"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is important in a class discussion?",
+                "options": [
+                    "Respectful participation",
+                    "Staying quiet",
+                    "Being the teacher's favorite"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does a class discussion help with?",
+                "options": [
+                    "Learning from each other",
+                    "Fighting",
+                    "Sleeping"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Who participates in the class discussion?",
+                "options": [
+                    "Only the teacher",
+                    "Only the students",
+                    "Everyone in the class"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What does the poem teach us about communication?",
+                "options": [
+                    "It is important to listen and share",
+                    "It is good to argue",
+                    "It is better to stay quiet"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "The Talkative Barber",
+        "language": "english",
+        "article": "'The Talkative Barber' is a humorous poem about a barber who talks too much while cutting hair. He tells long stories to his customers, making it difficult for them to relax. The poem highlights the idea of being mindful of others and understanding the appropriate time to speak.",
+        "diagram": "diagrams/the_talkative_barber.png",
+        "quiz": [
+            {
+                "question": "What does the barber do while cutting hair?",
+                "options": [
+                    "Sings",
+                    "Talks a lot",
+                    "Cuts hair quietly"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is the problem with the barber?",
+                "options": [
+                    "He is too talkative",
+                    "He is quiet",
+                    "He is rude"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Why can't the customers relax?",
+                "options": [
+                    "Because of the barber's stories",
+                    "Because the barber is slow",
+                    "Because the customers are in a hurry"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the poem teach us?",
+                "options": [
+                    "To talk at the right time",
+                    "To always be quiet",
+                    "To talk louder"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What should the barber do?",
+                "options": [
+                    "Talk less",
+                    "Talk more",
+                    "Stop cutting hair"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Topsy-turvy Land",
+        "language": "english",
+        "article": "'Topsy-turvy Land' is a whimsical poem about a world where everything is upside down. In this land, the usual rules of the world are reversed. The poem invites readers to imagine a world where nothing is as it should be, encouraging creativity and fun in thinking about the world differently.",
+        "diagram": "diagrams/topsy_turvy_land.png",
+        "quiz": [
+            {
+                "question": "What is the main theme of 'Topsy-turvy Land'?",
+                "options": [
+                    "Everything is upside down",
+                    "Things are as usual",
+                    "The world is boring"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "In 'Topsy-turvy Land', what happens to the rules of the world?",
+                "options": [
+                    "They are reversed",
+                    "They remain the same",
+                    "They are ignored"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How does the poem make the reader feel?",
+                "options": [
+                    "Confused",
+                    "Excited",
+                    "Bored"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What kind of world is described in the poem?",
+                "options": [
+                    "A magical world",
+                    "A normal world",
+                    "A dull world"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is encouraged by the poem?",
+                "options": [
+                    "Creativity and fun",
+                    "Seriousness",
+                    "Conformity"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Gulliver’s Travels",
+        "language": "english",
+        "article": "'Gulliver’s Travels' is a poem that tells the story of a man who travels to strange lands and encounters unusual creatures. It describes how Gulliver adapts to these foreign lands and learns valuable lessons about life and human nature. The poem explores themes of adventure, exploration, and the wonders of discovery.",
+        "diagram": "diagrams/gullivers_travels.png",
+        "quiz": [
+            {
+                "question": "Who is the main character in the poem?",
+                "options": [
+                    "Gulliver",
+                    "The king",
+                    "The explorer"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is the main theme of 'Gulliver’s Travels'?",
+                "options": [
+                    "Adventure and discovery",
+                    "Sadness",
+                    "Loneliness"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Where does Gulliver travel?",
+                "options": [
+                    "To strange lands",
+                    "To the city",
+                    "To the mountains"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does Gulliver learn on his travels?",
+                "options": [
+                    "Lessons about life and human nature",
+                    "How to cook",
+                    "How to fight"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What kind of creatures does Gulliver encounter?",
+                "options": [
+                    "Unusual and strange creatures",
+                    "Friendly creatures",
+                    "Dangerous creatures"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Nobody’s Friend",
+        "language": "english",
+        "article": "'Nobody’s Friend' is a poem that talks about the importance of being kind to others. It describes how a person who is selfish and unkind can find themselves with no friends. The poem emphasizes the idea that to have friends, one must be friendly and generous to others.",
+        "diagram": "diagrams/nobodys_friend.png",
+        "quiz": [
+            {
+                "question": "What does the poem 'Nobody’s Friend' talk about?",
+                "options": [
+                    "The importance of kindness",
+                    "The importance of money",
+                    "The importance of being quiet"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What happens to a person who is unkind?",
+                "options": [
+                    "They have no friends",
+                    "They become rich",
+                    "They are very happy"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What should one do to make friends?",
+                "options": [
+                    "Be kind and friendly",
+                    "Be rude",
+                    "Be quiet"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is the message of the poem?",
+                "options": [
+                    "To be friendly and kind",
+                    "To be selfish",
+                    "To avoid talking to others"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Why does the person in the poem have no friends?",
+                "options": [
+                    "Because they are unkind",
+                    "Because they are shy",
+                    "Because they are rich"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "The Little Bully",
+        "language": "english",
+        "article": "'The Little Bully' tells the story of a bully who causes trouble for others but eventually learns the importance of being kind and respectful. The poem highlights the negative effects of bullying and the importance of treating others with kindness and empathy.",
+        "diagram": "diagrams/the_little_bully.png",
+        "quiz": [
+            {
+                "question": "What is the main topic of 'The Little Bully'?",
+                "options": [
+                    "Bullying and kindness",
+                    "Friendship",
+                    "Adventure"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the bully learn in the poem?",
+                "options": [
+                    "Kindness is important",
+                    "Bullying is fun",
+                    "Fighting is good"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How does bullying affect others?",
+                "options": [
+                    "It hurts others",
+                    "It makes people happy",
+                    "It helps everyone"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What lesson does the bully learn?",
+                "options": [
+                    "To be kind",
+                    "To fight more",
+                    "To ignore others"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How should we treat others according to the poem?",
+                "options": [
+                    "With kindness and respect",
+                    "With cruelty",
+                    "With indifference"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Sing a Song of People",
+        "language": "english",
+        "article": "'Sing a Song of People' is a poem that celebrates the different people who contribute to our lives. It emphasizes the importance of each person and the roles they play in our community. The poem encourages appreciation and respect for all kinds of people, whether they are helpers, workers, or friends.",
+        "diagram": "diagrams/sing_a_song_of_people.png",
+        "quiz": [
+            {
+                "question": "What is the main idea of 'Sing a Song of People'?",
+                "options": [
+                    "To appreciate people",
+                    "To ignore people",
+                    "To criticize people"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Who are the people celebrated in the poem?",
+                "options": [
+                    "Helpers, workers, and friends",
+                    "Only teachers",
+                    "Only rich people"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What should we do according to the poem?",
+                "options": [
+                    "Appreciate and respect people",
+                    "Avoid talking to others",
+                    "Ignore others' contributions"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What roles do people play in our lives?",
+                "options": [
+                    "Important roles",
+                    "Unimportant roles",
+                    "No roles"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How does the poem make us feel about others?",
+                "options": [
+                    "Respectful and appreciative",
+                    "Angry",
+                    "Bored"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Around the World",
+        "language": "english",
+        "article": "'Around the World' is a poem that takes readers on a journey across the globe, highlighting various places, cultures, and the beauty of the Earth. It encourages a sense of adventure and appreciation for the diversity of our planet. The poem suggests that there is always something new to explore in every corner of the world.",
+        "diagram": "diagrams/around_the_world.png",
+        "quiz": [
+            {
+                "question": "What is the main theme of 'Around the World'?",
+                "options": [
+                    "Exploration and adventure",
+                    "Boredom",
+                    "Loneliness"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the poem highlight?",
+                "options": [
+                    "Different places and cultures",
+                    "Only one place",
+                    "The importance of money"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What should we appreciate according to the poem?",
+                "options": [
+                    "The diversity of the world",
+                    "Our own home",
+                    "Only nature"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What feeling does the poem encourage?",
+                "options": [
+                    "A sense of adventure",
+                    "Boredom",
+                    "Fear"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Where can you find something new according to the poem?",
+                "options": [
+                    "In every corner of the world",
+                    "In one place",
+                    "In the sky"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Malu Bhalu",
+        "language": "english",
+        "article": "'Malu Bhalu' is a delightful story about a bear named Malu who feels hot in the summer. He tries different ways to cool himself down, learning valuable lessons about self-care and listening to others. The poem highlights the importance of trying new things and understanding the consequences of our actions.",
+        "diagram": "diagrams/malu_bhalu.png",
+        "quiz": [
+            {
+                "question": "Who is the main character in 'Malu Bhalu'?",
+                "options": [
+                    "Malu the bear",
+                    "A lion",
+                    "A bird"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does Malu Bhalu try to do?",
+                "options": [
+                    "Cool himself down",
+                    "Make new friends",
+                    "Find food"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What lesson does Malu Bhalu learn?",
+                "options": [
+                    "To listen and try new things",
+                    "To stay alone",
+                    "To be selfish"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Why does Malu Bhalu feel uncomfortable?",
+                "options": [
+                    "Because it is hot",
+                    "Because it is cold",
+                    "Because he is hungry"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does Malu learn from the story?",
+                "options": [
+                    "Self-care and listening to others",
+                    "To ignore others",
+                    "To be lazy"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Who Will be Ningthou?",
+        "language": "english",
+        "article": "'Who Will be Ningthou?' is a story that revolves around the search for a leader or a ruler in a community. The poem discusses the qualities needed to be a good leader, such as wisdom, fairness, and the ability to lead others with integrity. It reflects the importance of responsibility and leadership.",
+        "diagram": "diagrams/who_will_be_ningthou.png",
+        "quiz": [
+            {
+                "question": "What is the poem about?",
+                "options": [
+                    "The search for a leader",
+                    "A family story",
+                    "A group of friends"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What qualities are needed to be a good leader?",
+                "options": [
+                    "Wisdom and fairness",
+                    "Strength",
+                    "Richness"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the poem reflect on?",
+                "options": [
+                    "Leadership and responsibility",
+                    "The importance of wealth",
+                    "Family bonds"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Who is looking for a leader in the poem?",
+                "options": [
+                    "A community",
+                    "A family",
+                    "A school"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What should a leader do according to the poem?",
+                "options": [
+                    "Lead with integrity",
+                    "Be selfish",
+                    "Ignore others"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "राख की रस्सी",
+        "language": "hindi",
+        "article": "'राख की रस्सी' एक प्रेरणादायक कहानी है, जिसमें यह बताया गया है कि अगर कोई चीज़ बिना काम के पड़ी रहती है, तो वह कभी भी महत्व प्राप्त नहीं कर सकती। यह कहानी यह सिखाती है कि हमें किसी भी वस्तु की वास्तविक उपयोगिता को समझना चाहिए और उसका सही उपयोग करना चाहिए।",
+        "diagram": "diagrams/rakh_ki_rassi.png",
+        "quiz": [
+            {
+                "question": "'राख की रस्सी' किसके बारे में है?",
+                "options": [
+                    "एक बेकार वस्तु",
+                    "एक पेड़",
+                    "एक आदमी"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में राख की रस्सी का क्या महत्व है?",
+                "options": [
+                    "कोई महत्व नहीं",
+                    "सही उपयोग नहीं किया गया",
+                    "उपयोग किया गया"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "इस कहानी से क्या सिखने को मिलता है?",
+                "options": [
+                    "हमें किसी चीज़ का सही उपयोग करना चाहिए",
+                    "हमें चीज़ों को छोड़ देना चाहिए",
+                    "हमें चीज़ों की कीमत नहीं समझनी चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में कौन सी वस्तु मुख्य पात्र है?",
+                "options": [
+                    "रस्सी",
+                    "पेड़",
+                    "लड़की"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी का संदेश क्या है?",
+                "options": [
+                    "किसी भी वस्तु को सही उपयोग में लाना",
+                    "चीज़ों को छोड़ देना",
+                    "दूसरों की मदद करना"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "फसलों के त्योहार",
+        "language": "hindi",
+        "article": "'फसलों के त्योहार' में भारतीय संस्कृति में फसलों की महत्ता पर प्रकाश डाला गया है। यह कहानी यह सिखाती है कि कृषि हमारे जीवन का अभिन्न हिस्सा है और हमें फसलों के त्योहारों को मनाना चाहिए, जो हमारी मेहनत और प्रकृति से जुड़ा हुआ है।",
+        "diagram": "diagrams/faslon_ke_tyohar.png",
+        "quiz": [
+            {
+                "question": "'फसलों के त्योहार' का मुख्य उद्देश्य क्या है?",
+                "options": [
+                    "कृषि और फसलों की महत्ता",
+                    "खेलों का आयोजन",
+                    "सप्ताह का उत्सव"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "यह कहानी किससे संबंधित है?",
+                "options": [
+                    "कृषि",
+                    "धर्म",
+                    "प्राकृतिक आपदाएँ"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "फसलों के त्योहारों का क्या महत्व है?",
+                "options": [
+                    "हमें फसलों की मेहनत और प्रकृति की कद्र करनी चाहिए",
+                    "हम सिर्फ खुशी मनाने के लिए मनाते हैं",
+                    "ये किसी और का काम है"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में किसका महत्व दर्शाया गया है?",
+                "options": [
+                    "कृषि",
+                    "संगीत",
+                    "विज्ञान"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "इस कहानी से हम क्या सिखते हैं?",
+                "options": [
+                    "प्रकृति और फसलों की कद्र करना चाहिए",
+                    "खिलाड़ियों को सम्मान देना चाहिए",
+                    "दूसरों से नहीं लड़ना चाहिए"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "खिलौनेवाला",
+        "language": "hindi",
+        "article": "'खिलौनेवाला' एक प्यारी कहानी है, जिसमें एक खिलौनेवाले की कठिनाईयों और उसके संघर्ष को बताया गया है। कहानी यह सिखाती है कि मेहनत और ईमानदारी से काम करने से ही सफलता मिलती है, चाहे स्थिति कैसी भी हो।",
+        "diagram": "diagrams/khilonewala.png",
+        "quiz": [
+            {
+                "question": "'खिलौनेवाला' में कौन मुख्य पात्र है?",
+                "options": [
+                    "खिलौनेवाला",
+                    "बच्चे",
+                    "पिता"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "खिलौनेवाले के जीवन में क्या चुनौती थी?",
+                "options": [
+                    "गरीबी",
+                    "अवसर का अभाव",
+                    "परिवार की समस्याएँ"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "इस कहानी से क्या सिखने को मिलता है?",
+                "options": [
+                    "मेहनत और ईमानदारी से सफलता मिलती है",
+                    "चीज़ों को छोड़ देना चाहिए",
+                    "दूसरों से मदद मांगनी चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "खिलौनेवाले की क्या विशेषता थी?",
+                "options": [
+                    "वह कड़ी मेहनत करता था",
+                    "वह आलसी था",
+                    "वह हमेशा खुश रहता था"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी का क्या संदेश है?",
+                "options": [
+                    "मेहनत और ईमानदारी से सफलता मिलेगी",
+                    "लोगों को मदद करनी चाहिए",
+                    "सिर्फ दौलत को महत्व देना चाहिए"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "नन्हा फनकार",
+        "language": "hindi",
+        "article": "'नन्हा फनकार' कहानी एक छोटे बच्चे की है जो अपनी कला से दुनिया को प्रभावित करता है। यह कहानी यह सिखाती है कि कला और रचनात्मकता किसी भी आयु में हो सकती है, और उसे दुनिया में साझा करने से जीवन में सार्थकता आती है।",
+        "diagram": "diagrams/nanha_fankaar.png",
+        "quiz": [
+            {
+                "question": "'नन्हा फनकार' में कौन मुख्य पात्र है?",
+                "options": [
+                    "एक बच्चा",
+                    "एक कक्षा शिक्षक",
+                    "एक कलाकार"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "नन्हे फनकार की कला का क्या महत्व है?",
+                "options": [
+                    "वह कला से दुनिया को प्रभावित करता है",
+                    "उसकी कला साधारण थी",
+                    "वह केवल बच्चों के लिए कला बनाता था"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में बच्चों को क्या सिखाया गया है?",
+                "options": [
+                    "कला और रचनात्मकता को अपनाओ",
+                    "खेलों में ध्यान दो",
+                    "मात्र शिक्षा पर ध्यान दो"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "नन्हा फनकार अपनी कला से क्या करता है?",
+                "options": [
+                    "दुनिया को प्रभावित करता है",
+                    "खुद को दिखाता है",
+                    "दूसरों को दुखी करता है"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी से क्या संदेश मिलता है?",
+                "options": [
+                    "कला और रचनात्मकता को बढ़ावा देना चाहिए",
+                    "कला से ज्यादा पैसा कमाना चाहिए",
+                    "खेलों को ज्यादा महत्व देना चाहिए"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "जहाँ चाह वहाँ राह",
+        "language": "hindi",
+        "article": "'जहाँ चाह वहाँ राह' कहानी यह सिखाती है कि अगर किसी के पास कुछ करने की इच्छा हो, तो वह अपने रास्ते का निर्माण कर सकता है। यह हमें आत्मविश्वास और मेहनत के साथ अपने लक्ष्यों को प्राप्त करने के लिए प्रेरित करती है।",
+        "diagram": "diagrams/jahan_chah_wahan_raah.png",
+        "quiz": [
+            {
+                "question": "'जहाँ चाह वहाँ राह' का क्या संदेश है?",
+                "options": [
+                    "इच्छाशक्ति से रास्ता मिलता है",
+                    "रास्ते का निर्माण सिर्फ किस्मत से होता है",
+                    "लोगों से मदद लेनी चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी का मुख्य विषय क्या है?",
+                "options": [
+                    "इच्छा और संघर्ष",
+                    "किस्मत",
+                    "आलस्य"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में क्या सिखाया गया है?",
+                "options": [
+                    "अगर मेहनत की जाए तो रास्ता मिलता है",
+                    "किस्मत से सब कुछ मिलता है",
+                    "लोगों से मदद मांगना चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी का मुख्य पात्र किसका उदाहरण है?",
+                "options": [
+                    "एक व्यक्ति जो संघर्ष करता है",
+                    "एक आलसी व्यक्ति",
+                    "एक धनवान व्यक्ति"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "इस कहानी से क्या प्रेरणा मिलती है?",
+                "options": [
+                    "मेहनत से रास्ता तैयार होता है",
+                    "दूसरों से मदद लेनी चाहिए",
+                    "आलस्य अपनाना चाहिए"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "चिट्ठी का सफर",
+        "language": "hindi",
+        "article": "'चिट्ठी का सफर' कहानी एक चिट्ठी के सफर के बारे में है, जो कई लोगों के हाथों से गुजरते हुए अपने गंतव्य तक पहुँचती है। यह कहानी यह सिखाती है कि संदेश पहुँचाने का कोई भी तरीका हो सकता है, और हमें यह प्रक्रिया समझनी चाहिए।",
+        "diagram": "diagrams/chitthi_ka_safar.png",
+        "quiz": [
+            {
+                "question": "'चिट्ठी का सफर' में चिट्ठी कहाँ से शुरू होती है?",
+                "options": [
+                    "गाँव",
+                    "शहर",
+                    "डाकघर"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "कहानी में चिट्ठी का सफर किससे संबंधित है?",
+                "options": [
+                    "दूरी",
+                    "सम्पर्क",
+                    "समय"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कहानी में चिट्ठी किसकी मदद से यात्रा करती है?",
+                "options": [
+                    "डाकिये",
+                    "रेलवे",
+                    "विमान"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "चिट्ठी के सफर से हमें क्या सिखने को मिलता है?",
+                "options": [
+                    "हमेशा संपर्क बनाये रखना चाहिए",
+                    "समय की अहमियत समझनी चाहिए",
+                    "दूरियाँ मिटाना चाहिए"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "चिट्ठी का सफर किसके बारे में है?",
+                "options": [
+                    "एक पत्र",
+                    "एक संदेश",
+                    "एक पैकेज"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "डाकिए की कहानी, कुंवरसिंह की जुबानी",
+        "language": "hindi",
+        "article": "'डाकिए की कहानी' में एक डाकिये के जीवन के संघर्ष और उसकी मेहनत को दर्शाया गया है। यह कहानी यह बताती है कि किसी भी नौकरी में कठिनाइयाँ होती हैं, लेकिन मेहनत से किसी भी काम को आसान बनाया जा सकता है।",
+        "diagram": "diagrams/dakiye_ki_kahani.png",
+        "quiz": [
+            {
+                "question": "'डाकिए की कहानी' में मुख्य पात्र कौन है?",
+                "options": [
+                    "कुंवरसिंह",
+                    "डाकिया",
+                    "लड़का"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कहानी में डाकिये का क्या कार्य था?",
+                "options": [
+                    "पत्र पहुँचाना",
+                    "लिफाफे खोलना",
+                    "संदेश लिखना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी से क्या संदेश मिलता है?",
+                "options": [
+                    "कड़ी मेहनत करनी चाहिए",
+                    "हमेशा आराम करना चाहिए",
+                    "दूसरों पर निर्भर रहना चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कुंवरसिंह की कहानी में क्या दिखाया गया है?",
+                "options": [
+                    "डाकिये की मेहनत",
+                    "किसान की परेशानी",
+                    "शिक्षक की कठिनाई"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "डाकिये का काम किस प्रकार का था?",
+                "options": [
+                    "रोज़गार से भरा हुआ",
+                    "आसान और सुविधाजनक",
+                    "कठिन और चुनौतीपूर्ण"
+                ],
+                "answerIndex": 2
+            }
+        ]
+    },
+    {
+        "topic": "वे दिन भी क्या दिन थे",
+        "language": "hindi",
+        "article": "'वे दिन भी क्या दिन थे' में पुराने समय की यादों और अतीत के सुखद अनुभवों को पुनः जीवित किया गया है। यह कहानी यह बताती है कि जीवन के संघर्षों के बावजूद, हमें अपने अच्छे दिनों को याद करना चाहिए और उनसे प्रेरणा लेनी चाहिए।",
+        "diagram": "diagrams/ve_din_bhi_kya_din_the.png",
+        "quiz": [
+            {
+                "question": "'वे दिन भी क्या दिन थे' का मुख्य संदेश क्या है?",
+                "options": [
+                    "अतीत की क़ीमत को समझना",
+                    "अभी का समय जीना",
+                    "सिर्फ भविष्य की ओर देखना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में किसका वर्णन है?",
+                "options": [
+                    "पुराने दिन",
+                    "संगठित जीवन",
+                    "आधुनिक युग"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में किस प्रकार की भावनाएँ व्यक्त की गई हैं?",
+                "options": [
+                    "पुरानी यादें",
+                    "नफ़रत",
+                    "आक्रोश"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "इस कहानी से क्या सिखा जा सकता है?",
+                "options": [
+                    "अतीत को याद करना और उससे सीखना",
+                    "अभी का समय छोड़ देना",
+                    "पुरानी बातों को भूल जाना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में 'वे दिन' क्या दर्शाते हैं?",
+                "options": [
+                    "सुखद और संतोषजनक दिन",
+                    "विकट परिस्थितियाँ",
+                    "संघर्ष के दिन"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "एक माँ की बेबसी",
+        "language": "hindi",
+        "article": "'एक माँ की बेबसी' में एक माँ के संघर्ष और उसकी स्थिति को व्यक्त किया गया है। यह कहानी यह बताती है कि एक माँ अपने बच्चों के लिए क्या कुछ भी कर सकती है और उसकी ताकत उसकी संतान में होती है।",
+        "diagram": "diagrams/ek_maa_ki_bebasi.png",
+        "quiz": [
+            {
+                "question": "'एक माँ की बेबसी' में माँ के किस गुण का चित्रण किया गया है?",
+                "options": [
+                    "उसकी बेबसी",
+                    "उसकी शक्ति",
+                    "उसकी उम्मीद"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में माँ को क्या करना पड़ा?",
+                "options": [
+                    "अपने बच्चों की मदद करना",
+                    "अपनी खुशियों को त्यागना",
+                    "खुद को संतुष्ट करना"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "माँ की बेबसी में क्या प्रमुख भावनाएँ दिखाई गई हैं?",
+                "options": [
+                    "दुख और संघर्ष",
+                    "खुशी और प्रेम",
+                    "आलस्य और आराम"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "इस कहानी से क्या सिखने को मिलता है?",
+                "options": [
+                    "माँ के संघर्ष को समझना चाहिए",
+                    "हमेशा खुद की खुशियों का ख्याल रखना चाहिए",
+                    "माँ को अपने बच्चों से अलग रखना चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में माँ किसके लिए संघर्ष कर रही है?",
+                "options": [
+                    "अपने बच्चों",
+                    "अपने पति",
+                    "अपने परिवार"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "एक दिन की बादशाहत",
+        "language": "hindi",
+        "article": "'एक दिन की बादशाहत' कहानी एक छोटे बच्चे की कल्पनाशक्ति के बारे में है, जो एक दिन के लिए राजा बन जाता है। यह कहानी हमें यह सिखाती है कि अगर हमें कुछ हासिल करना है, तो हमें अपनी सीमाओं को समझना चाहिए और अपनी जिम्मेदारियों को समझना चाहिए।",
+        "diagram": "diagrams/ek_din_ki_badhshahat.png",
+        "quiz": [
+            {
+                "question": "'एक दिन की बादशाहत' में मुख्य पात्र कौन है?",
+                "options": [
+                    "बच्चा",
+                    "राजा",
+                    "बूढ़ा आदमी"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में बच्चा किस बात की कल्पना करता है?",
+                "options": [
+                    "राजा बनने की",
+                    "संगीत सीखने की",
+                    "विदेश जाने की"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में बच्चा क्या सीखता है?",
+                "options": [
+                    "सच्ची जिम्मेदारी",
+                    "आलस्य से काम करना",
+                    "कभी न सोचना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "इस कहानी से हमें कौन सा पाठ मिलता है?",
+                "options": [
+                    "दूसरों की मदद करनी चाहिए",
+                    "जिम्मेदारी से बचना चाहिए",
+                    "सिर्फ खुशियाँ चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "बच्चे ने बादशाह बनने के बाद क्या महसूस किया?",
+                "options": [
+                    "दुख",
+                    "खुशी",
+                    "बेहद बोझ"
+                ],
+                "answerIndex": 2
+            }
+        ]
+    },
+    {
+        "topic": "चावल की रोटियाँ",
+        "language": "hindi",
+        "article": "'चावल की रोटियाँ' कहानी एक गरीब परिवार के संघर्षों और उनके आशा के बारे में है। यह कहानी दिखाती है कि किसी भी कठिन परिस्थिति में भी उम्मीद और मेहनत से हम अपनी स्थिति सुधार सकते हैं।",
+        "diagram": "diagrams/chawal_ki_rotiyan.png",
+        "quiz": [
+            {
+                "question": "'चावल की रोटियाँ' में मुख्य पात्र कौन है?",
+                "options": [
+                    "गाँववाला",
+                    "गरीब आदमी",
+                    "माँ"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कहानी में चावल की रोटियाँ किसके लिए बनाई जाती हैं?",
+                "options": [
+                    "गरीबों के लिए",
+                    "रिश्तेदारों के लिए",
+                    "मुख्य पात्र के लिए"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "कहानी का मुख्य संदेश क्या है?",
+                "options": [
+                    "कठिनाई में भी उम्मीद नहीं छोड़नी चाहिए",
+                    "सिर्फ पैसे की अहमियत है",
+                    "शानदार खाना बनाना जरूरी है"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में मुख्य पात्र किससे उम्मीद करता है?",
+                "options": [
+                    "खुशियाँ",
+                    "सपने",
+                    "सहारा"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "इस कहानी में चावल की रोटियाँ किस उद्देश्य से बनती हैं?",
+                "options": [
+                    "प्यार और संघर्ष",
+                    "आलस्य और आराम",
+                    "सिर्फ खाना पकाना"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "गुरु और चेला",
+        "language": "hindi",
+        "article": "'गुरु और चेला' कहानी एक गुरु और उसके शिष्य के रिश्ते की एक उत्कृष्ट उदाहरण है। यह कहानी यह बताती है कि शिक्षा और मार्गदर्शन से ही व्यक्ति अपनी मंजिल तक पहुँच सकता है।",
+        "diagram": "diagrams/guru_aur_chela.png",
+        "quiz": [
+            {
+                "question": "'गुरु और चेला' में गुरु का मुख्य कार्य क्या था?",
+                "options": [
+                    "शिक्षा देना",
+                    "सपने दिखाना",
+                    "संसार की बातें सिखाना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में गुरु का नाम क्या है?",
+                "options": [
+                    "कुंवर सिंह",
+                    "भीम",
+                    "गुरुदेव"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "कहानी में चेला किससे शिक्षा प्राप्त करता है?",
+                "options": [
+                    "गुरु से",
+                    "माँ से",
+                    "दोस्त से"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "गुरु और चेला की कहानी हमें क्या सिखाती है?",
+                "options": [
+                    "कड़ी मेहनत और मार्गदर्शन से सफलता मिलती है",
+                    "समय ही सब कुछ है",
+                    "शिष्य हमेशा अपना रास्ता खुद तय करें"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "इस कहानी में शिक्षा का क्या महत्व बताया गया है?",
+                "options": [
+                    "शिक्षा से हम बहुत कुछ सिख सकते हैं",
+                    "शिक्षा के बिना जीवन संभव नहीं",
+                    "शिक्षा केवल किताबों में होती है"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "स्वामी की दादी",
+        "language": "hindi",
+        "article": "'स्वामी की दादी' कहानी एक बच्चे और उसकी दादी के रिश्ते के बारे में है। यह कहानी यह बताती है कि परिवार के सदस्य एक-दूसरे के लिए हमेशा अहम होते हैं, और उनकी मदद से ही हम जीवन की कठिनाइयों से उबर सकते हैं।",
+        "diagram": "diagrams/swami_ki_dadi.png",
+        "quiz": [
+            {
+                "question": "'स्वामी की दादी' कहानी में मुख्य पात्र कौन है?",
+                "options": [
+                    "स्वामी",
+                    "दादी",
+                    "माँ"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कहानी में स्वामी की दादी क्या करती हैं?",
+                "options": [
+                    "स्वामी को कहानियाँ सुनाती हैं",
+                    "स्वामी को सिखाती हैं",
+                    "स्वामी को डांटती हैं"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "स्वामी अपनी दादी से किस बात को सीखता है?",
+                "options": [
+                    "समझदारी",
+                    "सच्चाई",
+                    "प्रेम"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कहानी से क्या सिखा जा सकता है?",
+                "options": [
+                    "दादी का प्रेम और शिक्षा",
+                    "कभी न डाँटना",
+                    "आलस्य से बचना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "स्वामी की दादी का स्वभाव कैसा था?",
+                "options": [
+                    "मुलायम और समझदार",
+                    "गुस्सैल",
+                    "हंसमुख"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "बाघ आया उस रात",
+        "language": "hindi",
+        "article": "'बाघ आया उस रात' कहानी एक गाँव में बाघ के आने और उसके कारण गाँववालों की घबराहट के बारे में है। कहानी यह दिखाती है कि डर और संकट का सामना करने के लिए साहस और समझदारी की जरूरत होती है।",
+        "diagram": "diagrams/bagh_aaya_us_rath.png",
+        "quiz": [
+            {
+                "question": "'बाघ आया उस रात' में मुख्य पात्र कौन है?",
+                "options": [
+                    "गाँववाले",
+                    "बाघ",
+                    "किशोर"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "कहानी में बाघ क्यों आता है?",
+                "options": [
+                    "खाने के लिए",
+                    "शिकार करने के लिए",
+                    "सोने के लिए"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कहानी में गाँववाले बाघ के आने से क्या महसूस करते हैं?",
+                "options": [
+                    "डर",
+                    "साहस",
+                    "शांति"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में बाघ के बारे में क्या संदेश है?",
+                "options": [
+                    "हर समस्या का समाधान है",
+                    "डर से कभी न भागना चाहिए",
+                    "सभी जानवर खतरनाक होते हैं"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कहानी में बाघ का डर किसके लिए था?",
+                "options": [
+                    "गाँववाले",
+                    "किशोर",
+                    "दादी"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "पानी रे पानी",
+        "language": "hindi",
+        "article": "'पानी रे पानी' कविता पानी के महत्व पर आधारित है। यह कविता पानी के बिना जीवन की कल्पना करने में असमर्थता और पानी की बचत के बारे में जागरूकता फैलाती है।",
+        "diagram": "diagrams/pani_re_pani.png",
+        "quiz": [
+            {
+                "question": "'पानी रे पानी' कविता का मुख्य विषय क्या है?",
+                "options": [
+                    "पानी का महत्व",
+                    "धरती की सुंदरता",
+                    "पक्षियों की यात्रा"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में पानी की स्थिति के बारे में क्या बताया गया है?",
+                "options": [
+                    "पानी बहुत महत्वपूर्ण है",
+                    "पानी की कोई आवश्यकता नहीं है",
+                    "पानी की कमी नहीं होनी चाहिए"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में पानी के बिना जीवन कैसा होगा?",
+                "options": [
+                    "अशुद्ध",
+                    "सूखा",
+                    "नरम"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "कविता में क्या संदेश दिया गया है?",
+                "options": [
+                    "पानी की बचत करनी चाहिए",
+                    "पानी अनमोल है",
+                    "पानी से ज्यादा कुछ जरूरी नहीं है"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "पानी के बिना जीवन के बारे में कविता में क्या बताया गया है?",
+                "options": [
+                    "जीवन असंभव हो जाएगा",
+                    "हमारे पास कोई विकल्प होगा",
+                    "पानी का कोई प्रभाव नहीं होगा"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "छोटी-सी हमारी नदी",
+        "language": "hindi",
+        "article": "'छोटी-सी हमारी नदी' कविता एक छोटी नदी के बारे में है जो गाँव के लोगों के लिए बहुत महत्वपूर्ण है। यह कविता नदी के महत्व और उसकी देखभाल करने की आवश्यकता को दर्शाती है।",
+        "diagram": "diagrams/chhoti_si_hamari_nadi.png",
+        "quiz": [
+            {
+                "question": "'छोटी-सी हमारी नदी' में नदी का क्या महत्व है?",
+                "options": [
+                    "पानी का स्रोत",
+                    "खतरनाक",
+                    "सुंदरता का प्रतीक"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में नदी किसकी मदद करती है?",
+                "options": [
+                    "गाँववाले",
+                    "पेड़-पौधे",
+                    "पशु"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में नदी को किस रूप में प्रस्तुत किया गया है?",
+                "options": [
+                    "सभी के लिए जीवनदाता",
+                    "खतरनाक",
+                    "सुंदरता का पर्याय"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में नदी का ध्यान किससे रखना चाहिए?",
+                "options": [
+                    "सभी लोगों से",
+                    "केवल बच्चों से",
+                    "केवल किसानों से"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में नदी के बारे में क्या संदेश दिया गया है?",
+                "options": [
+                    "नदी की रक्षा करनी चाहिए",
+                    "नदी को छोड़ देना चाहिए",
+                    "नदी का कोई महत्व नहीं है"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "चलो व्यापार करें",
+        "language": "hindi",
+        "article": "'चलो व्यापार करें' कहानी व्यापार और मेहनत के महत्व को बताती है। यह कहानी बच्चों को यह सिखाती है कि मेहनत और ईमानदारी से किया गया काम किसी भी कार्य में सफलता ला सकता है।",
+        "diagram": "diagrams/chalo_vyapar_karein.png",
+        "quiz": [
+            {
+                "question": "'चलो व्यापार करें' कहानी में मुख्य पात्र कौन है?",
+                "options": [
+                    "व्यापारी",
+                    "किसान",
+                    "बच्चा"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "कहानी में व्यापार करने के लिए क्या दिया गया है?",
+                "options": [
+                    "धैर्य और मेहनत",
+                    "सिर्फ पैसों का विचार",
+                    "सिर्फ आराम"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी में व्यापार के महत्व के बारे में क्या बताया गया है?",
+                "options": [
+                    "व्यापार से पैसा मिलता है",
+                    "व्यापार में जोखिम है",
+                    "व्यापार से आत्मनिर्भरता मिलती है"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "कहानी में व्यापार करने का क्या तरीका बताया गया है?",
+                "options": [
+                    "ईमानदारी से काम करना",
+                    "जल्दी पैसा कमाना",
+                    "लाभ के लिए धोखा देना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कहानी से क्या सिखा जा सकता है?",
+                "options": [
+                    "व्यापार में धैर्य रखना चाहिए",
+                    "धोखा देना चाहिए",
+                    "शराब पीकर व्यापार करना चाहिए"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "चिट्ठियों की अनूठी दुनिया",
+        "language": "hindi",
+        "article": "'चिट्ठियों की अनूठी दुनिया' कविता चिट्ठियों के माध्यम से संवाद करने की बात करती है। यह कविता यह दिखाती है कि चिट्ठियाँ लोगों के दिलों को जोड़ने का एक अनूठा तरीका हैं, और आधुनिक तकनीक के बावजूद चिट्ठी का महत्व नहीं कम हुआ है।",
+        "diagram": "diagrams/chitthiyon_ki_anuthi_duniya.png",
+        "quiz": [
+            {
+                "question": "'चिट्ठियों की अनूठी दुनिया' कविता में चिट्ठी का क्या महत्व है?",
+                "options": [
+                    "संचार का माध्यम",
+                    "कृपया कुछ नहीं",
+                    "सामान भेजने का तरीका"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में चिट्ठियाँ किससे जुड़ी हैं?",
+                "options": [
+                    "दिलों से",
+                    "सिर्फ़ दोस्तों से",
+                    "बड़े-बुजुर्गों से"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में चिट्ठी की मदद से क्या हासिल किया जाता है?",
+                "options": [
+                    "संचार",
+                    "कृपया",
+                    "मनोरंजन"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "क्या आजकल चिट्ठियाँ उतनी महत्वपूर्ण हैं जितनी पहले हुआ करती थीं?",
+                "options": [
+                    "नहीं",
+                    "हाँ",
+                    "समय के हिसाब से कम हो गईं हैं"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "कविता में चिट्ठी की क्या खासियत है?",
+                "options": [
+                    "यह बहुत प्यारी होती है",
+                    "यह संचार का सबसे अच्छा तरीका है",
+                    "यह दिलों को जोड़ती है"
+                ],
+                "answerIndex": 2
+            }
+        ]
+    },
+    {
+        "topic": "वीर कुवर सिंह",
+        "language": "hindi",
+        "article": "'वीर कुवर सिंह' कहानी एक महान वीरता की मिसाल प्रस्तुत करती है। यह कहानी कुवर सिंह की बहादुरी और उनके द्वारा भारत के स्वतंत्रता संग्राम में दिए गए योगदान को दर्शाती है।",
+        "diagram": "diagrams/veer_kuwar_singh.png",
+        "quiz": [
+            {
+                "question": "'वीर कुवर सिंह' का मुख्य योगदान क्या था?",
+                "options": [
+                    "स्वतंत्रता संग्राम में भाग लेना",
+                    "राजनीतिक सलाह देना",
+                    "प्रकृति को बचाना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "वीर कुवर सिंह किस लड़ाई में प्रसिद्ध हुए?",
+                "options": [
+                    "1857 की स्वतंत्रता संग्राम",
+                    "भारत-पाक युद्ध",
+                    "सिंहगढ़ की लड़ाई"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "वीर कुवर सिंह को क्या माना जाता है?",
+                "options": [
+                    "वीरता का प्रतीक",
+                    "राजा",
+                    "विजेता"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "वीर कुवर सिंह की बहादुरी के बारे में क्या बताया गया है?",
+                "options": [
+                    "उन्होंने अपनी जान की परवाह नहीं की",
+                    "वह बहुत डरपोक थे",
+                    "वह केवल अपनी संपत्ति के लिए लड़े"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "वीर कुवर सिंह का संदेश क्या था?",
+                "options": [
+                    "साहस और आत्मविश्वास से संघर्ष करना चाहिए",
+                    "धन कमाने के लिए लड़ा गया युद्ध",
+                    "संघर्ष केवल भूख के लिए होता है"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "हमारी यात्रा",
+        "language": "hindi",
+        "article": "'हमारी यात्रा' कविता यात्रा के दौरान अनुभवों और सीखों पर आधारित है। यह कविता हमें बताती है कि यात्रा हमें नई चीज़ों को जानने और समझने का अवसर देती है। यात्रा के द्वारा हम न केवल भौतिक दूरी तय करते हैं, बल्कि मानसिक और आत्मिक विकास भी करते हैं।",
+        "diagram": "diagrams/hamari_yatra.png",
+        "quiz": [
+            {
+                "question": "'हमारी यात्रा' कविता का मुख्य विषय क्या है?",
+                "options": [
+                    "यात्रा के अनुभव",
+                    "सांसारिक दृष्टिकोण",
+                    "प्राकृतिक सुंदरता"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में यात्रा के दौरान क्या सिखने को मिलता है?",
+                "options": [
+                    "नई चीज़ें",
+                    "सिर्फ़ आराम",
+                    "सिर्फ़ घूमना"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में यात्रा को कैसे प्रस्तुत किया गया है?",
+                "options": [
+                    "सकारात्मक",
+                    "नकारात्मक",
+                    "उबाऊ"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में यात्रा से किस प्रकार के लाभ के बारे में बताया गया है?",
+                "options": [
+                    "आत्मिक विकास",
+                    "शारीरिक विकास",
+                    "सिर्फ़ शांति"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "कविता में यात्रा की प्रक्रिया क्या है?",
+                "options": [
+                    "नई जगहें देखना",
+                    "पुरानी जगहों पर लौटना",
+                    "सिर्फ़ घूमना"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Super Senses",
+        "language": "english",
+        "article": "The chapter 'Super Senses' introduces us to how animals use their senses more sharply than humans. Animals like dogs, tigers, and ants rely heavily on their sense of smell, hearing, and sight. These senses help them to survive in the wild. Some animals can even see at night, while others can hear sounds that humans cannot. The chapter encourages us to observe the natural world more closely and respect the ways in which animals experience their surroundings.",
+        "diagram": "diagrams/super_senses.png",
+        "quiz": [
+            {
+                "question": "Which sense is most powerful in dogs?",
+                "options": [
+                    "Sight",
+                    "Touch",
+                    "Smell"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Which animal can see well at night?",
+                "options": [
+                    "Elephant",
+                    "Owl",
+                    "Cow"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "How do ants usually find food?",
+                "options": [
+                    "By seeing",
+                    "By hearing",
+                    "By smell"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What does the chapter teach us to observe?",
+                "options": [
+                    "The weather",
+                    "Animal senses",
+                    "Human voices"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which of these animals uses sound waves to detect obstacles?",
+                "options": [
+                    "Bat",
+                    "Rabbit",
+                    "Deer"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "A Snake Charmer’s Story",
+        "language": "english",
+        "article": "This chapter tells the story of snake charmers and their traditional knowledge about snakes. It helps us understand how these people lived in harmony with nature and used their understanding of snake behavior. However, modern laws now protect snakes, making snake charming illegal. The chapter also highlights the importance of preserving such traditional wisdom while also conserving wildlife. It makes us think about how we can balance tradition with modern science and laws.",
+        "diagram": "diagrams/snake_charmer.png",
+        "quiz": [
+            {
+                "question": "What is the traditional job of snake charmers?",
+                "options": [
+                    "Hunting",
+                    "Snake dancing",
+                    "Catching and showing snakes"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Why is snake charming now illegal?",
+                "options": [
+                    "It is boring",
+                    "It harms snakes",
+                    "People don't like it"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What do snake charmers know well?",
+                "options": [
+                    "Snake behavior",
+                    "Weather",
+                    "Machines"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What does the chapter suggest we should protect?",
+                "options": [
+                    "Snakes and traditions",
+                    "Only snakes",
+                    "Only traditions"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What law protects snakes today?",
+                "options": [
+                    "Wildlife Protection Act",
+                    "Animal Rights Law",
+                    "Forestry Law"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "From Tasting to Digesting",
+        "language": "english",
+        "article": "The chapter 'From Tasting to Digesting' explains how food travels through our body. It begins with tasting food using the tongue and describes how digestion begins in the mouth. Then, the food goes through the food pipe to the stomach, where it is broken down. The chapter also talks about the roles of the liver and intestines in digestion. Students learn about healthy eating habits, the importance of chewing, and the amazing journey food takes inside us.",
+        "diagram": "diagrams/digestion_process.png",
+        "quiz": [
+            {
+                "question": "Where does digestion start?",
+                "options": [
+                    "Stomach",
+                    "Mouth",
+                    "Liver"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which organ helps in digestion after the stomach?",
+                "options": [
+                    "Heart",
+                    "Small intestine",
+                    "Lungs"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which body part helps us taste food?",
+                "options": [
+                    "Tongue",
+                    "Nose",
+                    "Ears"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What breaks the food down in the stomach?",
+                "options": [
+                    "Water",
+                    "Acid",
+                    "Air"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why is chewing food important?",
+                "options": [
+                    "To taste better",
+                    "To help digestion",
+                    "To drink water"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Mangoes Round the Year",
+        "language": "english",
+        "article": "This chapter explores the journey of mangoes from fresh to spoiled. It teaches us how food can rot if not preserved properly and introduces traditional Indian methods like pickling and drying. The story of how mangoes are preserved for long-term use helps students understand food storage and safety. It also builds awareness about avoiding food wastage and understanding how changes in smell, color, and texture signal spoilage.",
+        "diagram": "diagrams/mangoes_preservation.png",
+        "quiz": [
+            {
+                "question": "What happens to food if not stored properly?",
+                "options": [
+                    "It gets tastier",
+                    "It spoils",
+                    "It becomes cold"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which fruit is mainly discussed in this chapter?",
+                "options": [
+                    "Banana",
+                    "Mango",
+                    "Orange"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which method is used to store mangoes for a long time?",
+                "options": [
+                    "Freezing",
+                    "Pickling",
+                    "Boiling"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is a sign of spoiled food?",
+                "options": [
+                    "Bright color",
+                    "Sour smell",
+                    "Fresh taste"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why should we not waste food?",
+                "options": [
+                    "It’s expensive",
+                    "It’s boring",
+                    "It attracts animals"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "Seeds and Seeds",
+        "language": "english",
+        "article": "In this chapter, children learn about seeds—how they grow, how they travel, and how they change into plants. It discusses experiments that students can try at home to see seed sprouting. The chapter also highlights the diversity of seeds, the importance of storing them, and the idea of germination. Real-life stories help students understand the cycle of plant life and encourage them to observe the plants around them with curiosity.",
+        "diagram": "diagrams/seeds_germination.png",
+        "quiz": [
+            {
+                "question": "What grows from a seed?",
+                "options": [
+                    "Tree",
+                    "Fruit",
+                    "Plant"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What is germination?",
+                "options": [
+                    "Plant dying",
+                    "Seed growing into a plant",
+                    "Seed drying"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which of these is a seed?",
+                "options": [
+                    "Potato",
+                    "Rice",
+                    "Carrot"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What helps seeds to grow?",
+                "options": [
+                    "Sunlight, water, and air",
+                    "Plastic and glass",
+                    "Sugar and salt"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How do some seeds travel?",
+                "options": [
+                    "By boat",
+                    "By wind and animals",
+                    "By humans only"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Every Drop Counts",
+        "language": "english",
+        "article": "This chapter highlights the importance of saving water. It uses stories and examples from dry regions where people manage with very little water. It discusses rainwater harvesting, traditional water storage systems, and water management in ancient times. The chapter motivates students to avoid wasting water, understand the water crisis, and appreciate efforts made by communities to preserve every drop of water.",
+        "diagram": "diagrams/water_conservation.png",
+        "quiz": [
+            {
+                "question": "Why should we save water?",
+                "options": [
+                    "It’s cheap",
+                    "It’s fun",
+                    "It is precious and limited"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What is rainwater harvesting?",
+                "options": [
+                    "Washing clothes",
+                    "Collecting rainwater for use",
+                    "Boiling water"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which place has less water?",
+                "options": [
+                    "Desert",
+                    "River",
+                    "Sea"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How did people in olden times store water?",
+                "options": [
+                    "Using plastic bottles",
+                    "In tanks and step-wells",
+                    "In fridges"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What happens if water is wasted?",
+                "options": [
+                    "No effect",
+                    "Water crisis",
+                    "More rainfall"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Experiments with Water",
+        "language": "english",
+        "article": "This chapter introduces children to the different properties of water through simple experiments. It explores concepts like floating, sinking, dissolving, and evaporation. By observing what happens when various substances are added to water, students develop a better understanding of solubility and density. It also touches on practical uses of these properties in daily life, making science both fun and relatable.",
+        "diagram": "diagrams/experiments_with_water.png",
+        "quiz": [
+            {
+                "question": "What happens when salt is mixed with water?",
+                "options": [
+                    "It floats",
+                    "It dissolves",
+                    "It sinks"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which of these will float on water?",
+                "options": [
+                    "Stone",
+                    "Iron nail",
+                    "Wood piece"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What is evaporation?",
+                "options": [
+                    "Water turning into ice",
+                    "Water turning into gas",
+                    "Water mixing with salt"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What do you call things that dissolve in water?",
+                "options": [
+                    "Soluble",
+                    "Heavy",
+                    "Sticky"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Why are such experiments useful?",
+                "options": [
+                    "For fun only",
+                    "To understand water properties",
+                    "To waste time"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "A Treat for Mosquitoes",
+        "language": "english",
+        "article": "This chapter discusses how mosquitoes breed and the diseases they spread, like malaria and dengue. It highlights how water stagnation leads to mosquito breeding. The chapter teaches children the importance of cleanliness, the use of mosquito nets, and government health programs. It also introduces the concept of blood testing and how we can stay healthy by preventing mosquito bites.",
+        "diagram": "diagrams/mosquito_lifecycle.png",
+        "quiz": [
+            {
+                "question": "Where do mosquitoes breed?",
+                "options": [
+                    "In fire",
+                    "In dirty water",
+                    "On dry leaves"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which disease is spread by mosquitoes?",
+                "options": [
+                    "Cold",
+                    "Malaria",
+                    "Asthma"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "How can we stop mosquito breeding?",
+                "options": [
+                    "Keep water uncovered",
+                    "Use mosquito nets",
+                    "Let water collect"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why is blood tested in malaria?",
+                "options": [
+                    "To check sugar",
+                    "To find malaria parasite",
+                    "To check strength"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What should we avoid to stay safe?",
+                "options": [
+                    "Clean surroundings",
+                    "Stagnant water",
+                    "Covered drains"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Up You Go!",
+        "language": "english",
+        "article": "This chapter is based on an adventure camp in the mountains. It teaches children about teamwork, courage, and physical fitness through activities like trekking and climbing. The story also introduces mountaineering equipment, safety measures, and the experience of adapting to high altitudes. It encourages students to be active and explore nature while respecting its challenges.",
+        "diagram": "diagrams/mountain_climbing.png",
+        "quiz": [
+            {
+                "question": "What is this chapter mainly about?",
+                "options": [
+                    "Swimming",
+                    "Mountaineering",
+                    "Cycling"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which equipment is used for climbing?",
+                "options": [
+                    "Umbrella",
+                    "Rope and hooks",
+                    "Sticks"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why is teamwork important in trekking?",
+                "options": [
+                    "To play games",
+                    "To cook food",
+                    "To help and support each other"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What changes are felt at high altitudes?",
+                "options": [
+                    "More energy",
+                    "Shortness of breath",
+                    "Heat increases"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What do we learn from mountaineering?",
+                "options": [
+                    "Fear",
+                    "Courage and confidence",
+                    "Sitting idle"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Walls Tell Stories",
+        "language": "english",
+        "article": "This chapter explores historical forts and monuments to help children learn about India's past. It includes discussions about structures like Golconda Fort, materials used in old buildings, methods of defense, and life inside forts. Through drawings, carvings, and secret tunnels, the chapter brings alive the rich architectural and cultural history of India. It also emphasizes the importance of preserving historical sites.",
+        "diagram": "diagrams/fort_walls.png",
+        "quiz": [
+            {
+                "question": "What is the name of the famous fort mentioned?",
+                "options": [
+                    "Red Fort",
+                    "Golconda Fort",
+                    "Agra Fort"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why were forts built in old times?",
+                "options": [
+                    "To store food",
+                    "For fun",
+                    "For protection and safety"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What materials were used in old buildings?",
+                "options": [
+                    "Plastic",
+                    "Wood",
+                    "Stone and lime"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What is a bastion?",
+                "options": [
+                    "A secret room",
+                    "A strong part of the wall",
+                    "A window"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why should we protect historical buildings?",
+                "options": [
+                    "They are old",
+                    "They are dirty",
+                    "They are our heritage"
+                ],
+                "answerIndex": 2
+            }
+        ]
+    },
+    {
+        "topic": "Sunita in Space",
+        "language": "english",
+        "article": "This chapter introduces space exploration through astronaut Sunita Williams’ experiences. Children learn how the Earth looks from space, what zero gravity means, and how life is different inside a spacecraft. It explains day and night, Earth’s rotation, and the concept of satellites. The chapter inspires curiosity about the universe and motivates students to think beyond our planet.",
+        "diagram": "diagrams/sunita_in_space.png",
+        "quiz": [
+            {
+                "question": "Who is Sunita Williams?",
+                "options": [
+                    "Doctor",
+                    "Pilot",
+                    "Astronaut"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "How does Earth look from space?",
+                "options": [
+                    "Flat",
+                    "Round like a ball",
+                    "Square"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is zero gravity?",
+                "options": [
+                    "Heavy weight",
+                    "No gravity",
+                    "More gravity"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "How do astronauts sleep in space?",
+                "options": [
+                    "On bed",
+                    "Floating",
+                    "On chair"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What causes day and night on Earth?",
+                "options": [
+                    "Sun moving",
+                    "Earth’s rotation",
+                    "Moonlight"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "What if it Finishes...?",
+        "language": "english",
+        "article": "This chapter discusses fuel and its uses in our daily lives. It explains the types of fuels like petrol, diesel, LPG, and CNG, and their role in transportation and cooking. It also talks about the limited nature of fossil fuels, pollution caused by them, and the need to find alternative sources of energy. The chapter encourages students to use energy wisely and protect the environment.",
+        "diagram": "diagrams/fuel_consumption.png",
+        "quiz": [
+            {
+                "question": "Which is a type of fuel used in vehicles?",
+                "options": [
+                    "Petrol",
+                    "Water",
+                    "Air"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What is the source of LPG?",
+                "options": [
+                    "Wind",
+                    "Sun",
+                    "Petroleum"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Why should we save fuel?",
+                "options": [
+                    "For decoration",
+                    "To reduce pollution",
+                    "To waste it later"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is a cleaner fuel for vehicles?",
+                "options": [
+                    "CNG",
+                    "Diesel",
+                    "Coal"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What will happen if fuel finishes?",
+                "options": [
+                    "More pollution",
+                    "Vehicles stop",
+                    "More travel"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "A Shelter So High!",
+        "language": "english",
+        "article": "This chapter takes students on a journey to Leh and Ladakh, focusing on the different types of shelters people build in hilly and snowy regions. It explains how the climate, altitude, and resources affect the style of houses. Children also learn about local culture, food, and lifestyle in high-altitude areas. The chapter encourages appreciation for India's diversity and adaptation to the environment.",
+        "diagram": "diagrams/hill_shelter.png",
+        "quiz": [
+            {
+                "question": "Where is Leh located?",
+                "options": [
+                    "Rajasthan",
+                    "Ladakh",
+                    "Kerala"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What type of roofs do houses in snowy regions have?",
+                "options": [
+                    "Flat",
+                    "Sloping",
+                    "Thatched"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why do people in Ladakh wear woolen clothes?",
+                "options": [
+                    "For style",
+                    "To keep cool",
+                    "To stay warm"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What makes building houses in Ladakh difficult?",
+                "options": [
+                    "Too many trees",
+                    "Snow and stones",
+                    "Flat land"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What do people in Ladakh mostly eat?",
+                "options": [
+                    "Seafood",
+                    "Rice and fish",
+                    "Wheat, meat, and butter tea"
+                ],
+                "answerIndex": 2
+            }
+        ]
+    },
+    {
+        "topic": "When the Earth Shook!",
+        "language": "english",
+        "article": "This chapter narrates the impact of an earthquake on people’s lives, especially focusing on the Gujarat earthquake of 2001. It explains what an earthquake is, how people react, and what safety measures can be taken. Students also learn about rescue work, support from different states, and how communities come together during disasters. It promotes awareness about natural calamities and preparedness.",
+        "diagram": "diagrams/earthquake_safety.png",
+        "quiz": [
+            {
+                "question": "What natural disaster is discussed in this chapter?",
+                "options": [
+                    "Flood",
+                    "Cyclone",
+                    "Earthquake"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Which state was affected by the 2001 earthquake?",
+                "options": [
+                    "Punjab",
+                    "Gujarat",
+                    "Bihar"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What should you do during an earthquake?",
+                "options": [
+                    "Run outside",
+                    "Stay near windows",
+                    "Take cover under a table"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What do rescue teams do?",
+                "options": [
+                    "Watch TV",
+                    "Help people",
+                    "Sell food"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why is disaster preparedness important?",
+                "options": [
+                    "For exams",
+                    "To avoid help",
+                    "To save lives"
+                ],
+                "answerIndex": 2
+            }
+        ]
+    },
+    {
+        "topic": "Blow Hot, Blow Cold",
+        "language": "english",
+        "article": "This chapter helps students understand the concept of temperature through simple daily experiences. It explains how our breath feels warm or cool in different situations and introduces basic science behind hot and cold air. The chapter also touches on the traditional Indian thermometer and how doctors use thermometers to check body temperature. It encourages observation and curiosity in children.",
+        "diagram": "diagrams/blow_hot_cold.png",
+        "quiz": [
+            {
+                "question": "What happens when you blow on your palm with an open mouth?",
+                "options": [
+                    "Feels cold",
+                    "Feels hot",
+                    "No change"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "How does your breath feel with a wide-open mouth?",
+                "options": [
+                    "Warm",
+                    "Cold",
+                    "Wet"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What tool is used to measure temperature?",
+                "options": [
+                    "Scale",
+                    "Compass",
+                    "Thermometer"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What is a normal body temperature in Celsius?",
+                "options": [
+                    "37°C",
+                    "100°C",
+                    "10°C"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "Why does air feel cold sometimes?",
+                "options": [
+                    "It is heated",
+                    "It moves fast and loses heat",
+                    "It is wet"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Who Will Do This Work?",
+        "language": "english",
+        "article": "This chapter highlights the dignity of labor and the importance of every type of work. It introduces students to people who clean our surroundings and the challenges they face. Through real-life stories and questions, children are encouraged to respect all kinds of work and understand the problems of caste-based discrimination. The chapter promotes empathy, equality, and social responsibility.",
+        "diagram": "diagrams/sanitation_workers.png",
+        "quiz": [
+            {
+                "question": "Who keeps our surroundings clean?",
+                "options": [
+                    "Doctors",
+                    "Sanitation workers",
+                    "Drivers"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What does the chapter teach about work?",
+                "options": [
+                    "Only office jobs matter",
+                    "All work is important",
+                    "Cleaning is bad"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why should we respect sanitation workers?",
+                "options": [
+                    "They are rich",
+                    "They help keep us healthy",
+                    "They don't work"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is caste discrimination?",
+                "options": [
+                    "Liking someone",
+                    "Judging based on work and caste",
+                    "Being fair"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "How can we support workers who clean our area?",
+                "options": [
+                    "Ignore them",
+                    "Thank and respect them",
+                    "Stop them"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Across the Wall",
+        "language": "english",
+        "article": "This chapter discusses gender equality through sports. It shares the story of girls who play football and break gender stereotypes. Students learn how boys and girls can enjoy the same activities, and how encouragement can help children do well in any field. The chapter promotes equal opportunities, self-confidence, and breaking social barriers.",
+        "diagram": "diagrams/girls_football_team.png",
+        "quiz": [
+            {
+                "question": "What game do the girls play in the story?",
+                "options": [
+                    "Hockey",
+                    "Football",
+                    "Cricket"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is the main theme of the chapter?",
+                "options": [
+                    "Sports rules",
+                    "Gender equality",
+                    "Weather"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why were some people surprised?",
+                "options": [
+                    "Boys won",
+                    "Girls played football",
+                    "It rained"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What breaks social barriers?",
+                "options": [
+                    "Fear",
+                    "Discrimination",
+                    "Confidence and support"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "What should both boys and girls get?",
+                "options": [
+                    "Equal chances",
+                    "Separate playgrounds",
+                    "Different rules"
+                ],
+                "answerIndex": 0
+            }
+        ]
+    },
+    {
+        "topic": "No Place for Us?",
+        "language": "english",
+        "article": "This chapter talks about people who are forced to leave their homes due to development projects like dam construction. It shares the story of a family that had to move and the difficulties they faced. Students understand the meaning of displacement, and the emotional and social impact it has. It raises awareness about responsible development and empathy for affected communities.",
+        "diagram": "diagrams/displacement.png",
+        "quiz": [
+            {
+                "question": "Why did the family have to leave their village?",
+                "options": [
+                    "Festival",
+                    "Dam construction",
+                    "Vacation"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What problem did they face after moving?",
+                "options": [
+                    "Too much food",
+                    "Lost their jobs and homes",
+                    "More space"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What does the chapter teach us?",
+                "options": [
+                    "Dance steps",
+                    "New houses",
+                    "Effects of displacement"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Why is it hard to leave your village?",
+                "options": [
+                    "Easy life",
+                    "Memories and roots",
+                    "Too many options"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What should we think about before big development projects?",
+                "options": [
+                    "Only profits",
+                    "Effects on people",
+                    "Entertainment"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "A Seed Tells a Farmer’s Story",
+        "language": "english",
+        "article": "This chapter presents the journey of a seed from sowing to harvesting through the perspective of a farmer. It describes how farming practices have changed over time and how farmers face difficulties like expensive seeds, fertilizers, and unpredictable weather. Students also learn about traditional farming methods, the importance of saving seeds, and how farming supports the entire community.",
+        "diagram": "diagrams/farming_journey.png",
+        "quiz": [
+            {
+                "question": "Who is the main character in the story?",
+                "options": [
+                    "Seed",
+                    "Bird",
+                    "Farmer"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What do farmers do to prepare the soil?",
+                "options": [
+                    "Play games",
+                    "Water it",
+                    "Plough the land"
+                ],
+                "answerIndex": 2
+            },
+            {
+                "question": "Why do farmers face problems?",
+                "options": [
+                    "Too many helpers",
+                    "Bad weather and costly seeds",
+                    "Too much land"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is an important tradition in farming?",
+                "options": [
+                    "Buying toys",
+                    "Saving seeds",
+                    "Cooking"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "How can we help farmers?",
+                "options": [
+                    "Ignore them",
+                    "Learn about their work",
+                    "Waste food"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Whose Forests?",
+        "language": "english",
+        "article": "This chapter explores the lives of people who live in and around forests. It explains how forests are not just trees but homes to animals, plants, and people who depend on them. The chapter shows how forest dwellers collect food, herbs, and wood, and the impact of deforestation. It teaches the value of forests and the need to protect them for future generations.",
+        "diagram": "diagrams/forest_community.png",
+        "quiz": [
+            {
+                "question": "Who lives in the forests?",
+                "options": [
+                    "Doctors",
+                    "Forest dwellers",
+                    "Engineers"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What do people collect from forests?",
+                "options": [
+                    "Toys",
+                    "Food and herbs",
+                    "Machines"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What harms the forest?",
+                "options": [
+                    "Tree planting",
+                    "Deforestation",
+                    "Rain"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Why are forests important?",
+                "options": [
+                    "No reason",
+                    "They support life",
+                    "They are scary"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What should we do for forests?",
+                "options": [
+                    "Cut more trees",
+                    "Protect and respect them",
+                    "Ignore them"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "Like Father, Like Daughter",
+        "language": "english",
+        "article": "This chapter focuses on heredity and how traits are passed from parents to children. It discusses physical features like eye color, height, and habits. Through real-life examples, students learn how we inherit some qualities from our parents and how environment also plays a role in shaping us. It also highlights differences and uniqueness in every child.",
+        "diagram": "diagrams/heredity_traits.png",
+        "quiz": [
+            {
+                "question": "What is heredity?",
+                "options": [
+                    "Learning in school",
+                    "Passing traits from parents",
+                    "Watching TV"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Which features can we inherit?",
+                "options": [
+                    "Height",
+                    "Favorite toy",
+                    "Mobile phone"
+                ],
+                "answerIndex": 0
+            },
+            {
+                "question": "What makes everyone unique?",
+                "options": [
+                    "Same habits",
+                    "Different traits and environment",
+                    "Copying others"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Can habits also be passed down?",
+                "options": [
+                    "No",
+                    "Yes, sometimes",
+                    "Only in books"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What does the chapter teach?",
+                "options": [
+                    "Magic tricks",
+                    "Our roots and uniqueness",
+                    "Games"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    },
+    {
+        "topic": "On the Move Again",
+        "language": "english",
+        "article": "This final chapter tells the story of seasonal migration among farmers and laborers. It shows how families move from one place to another in search of work and better living conditions. The chapter discusses the problems faced during migration—lack of shelter, health care, and education. It teaches empathy and awareness about the lives of people who often go unnoticed.",
+        "diagram": "diagrams/migrant_families.png",
+        "quiz": [
+            {
+                "question": "Why do some families move from place to place?",
+                "options": [
+                    "For holidays",
+                    "To find work",
+                    "To meet friends"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What problems do migrating families face?",
+                "options": [
+                    "Luxury",
+                    "Education and shelter issues",
+                    "More food"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "Who tells the story in this chapter?",
+                "options": [
+                    "A teacher",
+                    "A migrating child",
+                    "An actor"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What is seasonal migration?",
+                "options": [
+                    "Changing seasons",
+                    "Moving for work at certain times",
+                    "Watching weather"
+                ],
+                "answerIndex": 1
+            },
+            {
+                "question": "What should we learn from this chapter?",
+                "options": [
+                    "Ignore the poor",
+                    "Understand and help",
+                    "Stay silent"
+                ],
+                "answerIndex": 1
+            }
+        ]
+    }
+]

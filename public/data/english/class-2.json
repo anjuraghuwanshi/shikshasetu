@@ -1,0 +1,2149 @@
+[{
+    "topic": "First Day at School",
+    "video": "/data/videos/first_day_school.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is the child curious about?",
+        "options": ["His new shoes", "His teacher", "His lunch"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What does the child wonder about his teacher?",
+        "options": ["If she is strict", "If she looks like his mother or grandmother", "If she is tall"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Does the child want to carry his puppy to school?",
+        "options": ["Yes", "No", "Not mentioned"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the child's feeling on the first day?",
+        "options": ["Excited", "Nervous", "Happy"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the title of the poem?",
+        "options": ["First Day at School", "My New School", "School Time"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Haldi's Adventure",
+    "video": "/data/videos/haldi_adventure.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who did Haldi meet on her way to school?",
+        "options": ["A giraffe", "A lion", "A zebra"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What was the giraffe wearing?",
+        "options": ["Glasses", "Hat", "Scarf"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What did the giraffe ask Haldi?",
+        "options": ["To ride on his back", "To sing", "To run"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Did Haldi ride on the giraffe’s back?",
+        "options": ["Yes", "No", "Not mentioned"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What was Haldi’s reaction?",
+        "options": ["Happy", "Sad", "Scared"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "I am Lucky!",
+    "video": "/data/videos/i_am_lucky.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What does the child feel lucky to have?",
+        "options": ["A pet dog", "A loving family", "A beautiful voice"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which animal does the child wish to be like?",
+        "options": ["Bird", "Fish", "Butterfly"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What can the child do that a fish cannot?",
+        "options": ["Swim", "Sing", "Fly"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Why does the child feel lucky?",
+        "options": ["Because of wealth", "Because of talents", "Because of friends"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the main theme of the poem?",
+        "options": ["Jealousy", "Gratitude", "Adventure"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "I Want",
+    "video": "/data/videos/i_want.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What does the little monkey wish to be?",
+        "options": ["A giraffe", "An elephant", "A zebra"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who grants the monkey's wish?",
+        "options": ["A fairy", "A wizard", "A magician"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What happens after the wish is granted?",
+        "options": ["The monkey becomes happy", "The monkey becomes sad", "The monkey remains the same"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What lesson does the monkey learn?",
+        "options": ["To be content", "To be greedy", "To be angry"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the main theme of the story?",
+        "options": ["Adventure", "Contentment", "Magic"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "A Smile",
+    "video": "/data/videos/a_smile.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What does a smile cost?",
+        "options": ["Nothing", "A penny", "A dollar"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What can a smile do?",
+        "options": ["Make someone happy", "Make someone sad", "Make someone angry"],
+        "answerIndex": 0
+      },
+      {
+        "question": "When should we smile?",
+        "options": ["Only when happy", "Always", "Never"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the poem about?",
+        "options": ["Frowning", "Smiling", "Crying"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the main message of the poem?",
+        "options": ["Smiles are powerful", "Smiles are expensive", "Smiles are rare"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "The Wind and the Sun",
+    "video": "/data/videos/wind_and_sun.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who challenged the sun?",
+        "options": ["The moon", "The wind", "The stars"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What was the challenge about?",
+        "options": ["Who can make the man remove his coat", "Who can shine brighter", "Who can blow harder"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What did the wind do?",
+        "options": ["Blew hard", "Shined brightly", "Stayed calm"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Who won the challenge?",
+        "options": ["The wind", "The sun", "The moon"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Rain",
+    "video": "/data/videos/rain.mp4",
+    "image": "/data/images/rain.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Where does the rain fall?",
+        "options": ["On trees", "On ships", "All around"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What do people use when it rains?",
+        "options": ["Umbrellas", "Hats", "Shoes"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Storm in the Garden",
+    "video": "/data/videos/storm_in_garden.mp4",
+    "image": "/data/images/storm_in_garden.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who is the main character in the story?",
+        "options": ["Sunu-sunu", "Ant", "Butterfly"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What did Sunu-sunu experience?",
+        "options": ["A storm", "A picnic", "A race"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Zoo Manners",
+    "video": "/data/videos/zoo_manners.mp4",
+    "image": "/data/images/zoo_manners.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What should you not do at the zoo?",
+        "options": ["Feed animals", "Throw stones", "Both"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Why should we follow zoo manners?",
+        "options": ["To protect animals", "To have fun", "To make noise"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Funny Bunny",
+    "video": "/data/videos/funny_bunny.mp4",
+    "image": "/data/images/funny_bunny.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What did Funny Bunny think?",
+        "options": ["The sky is falling", "It's raining", "He lost his way"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Who did Funny Bunny meet?",
+        "options": ["Henny Penny", "Ducky Lucky", "Both"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "Mr. Nobody",
+    "video": "/data/videos/mr_nobody.mp4",
+    "image": "/data/images/mr_nobody.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who is blamed for the mischief?",
+        "options": ["Mr. Nobody", "Mr. Somebody", "Mr. Everybody"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What does Mr. Nobody do?",
+        "options": ["Breaks things", "Fixes things", "Cleans the house"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Curlylocks and the Three Bears",
+    "video": "/data/videos/curlylocks_three_bears.mp4",
+    "image": "/data/images/curlylocks_three_bears.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Whose house did Curlylocks enter?",
+        "options": ["Three Bears", "Three Pigs", "Three Cats"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What did Curlylocks eat?",
+        "options": ["Porridge", "Soup", "Cake"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "On My Blackboard I Can Draw",
+    "video": "/data/videos/on_my_blackboard.mp4",
+    "image": "/data/images/on_my_blackboard.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What does the child draw?",
+        "options": ["House", "Tree", "Both"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What is the poem about?",
+        "options": ["Drawing", "Singing", "Dancing"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Make It Shorter",
+    "video": "/data/videos/make_it_shorter.mp4",
+    "image": "/data/images/make_it_shorter.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who gave the task to make the line shorter?",
+        "options": ["Akbar", "Birbal", "Tenali Raman"],
+        "answerIndex": 0
+      },
+      {
+        "question": "How did Birbal make the line shorter?",
+        "options": ["Erased it", "Drew a longer line", "Cut it"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "I Am the Music Man",
+    "video": "/data/videos/i_am_music_man.mp4",
+    "image": "/data/images/i_am_music_man.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What instruments does the music man play?",
+        "options": ["Piano", "Drum", "Both"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What is the poem about?",
+        "options": ["Musical instruments", "Dancing", "Singing"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "The Mumbai Musicians",
+    "video": "/data/videos/mumbai_musicians.mp4",
+    "image": "/data/images/mumbai_musicians.png",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who are the Mumbai musicians?",
+        "options": ["Animals", "Children", "Adults"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What did they want to do?",
+        "options": ["Sing", "Dance", "Become musicians"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "The Magic Porridge Pot",
+    "video": "/data/videos/the_magic_porridge_pot.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What did the old woman give Tara?",
+        "options": ["A golden spoon", "A magic porridge pot", "A bag of gold"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What did the magic pot cook?",
+        "options": ["Soup", "Rice", "Porridge"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Why was there so much porridge on the road?",
+        "options": ["Tara cooked too much", "The pot was broken", "Tara's mother didn't know how to stop the pot"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "Granny Granny Please Comb My Hair",
+    "video": "/data/videos/granny_comb_my_hair.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who is the speaker asking to comb her hair?",
+        "options": ["Mother", "Sister", "Granny"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What does the speaker want Granny to do?",
+        "options": ["Comb her hair", "Sing a song", "Tell a story"],
+        "answerIndex": 0
+      },
+      {
+        "question": "How does the speaker feel about Granny?",
+        "options": ["Angry", "Loving", "Scared"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Strange Talk",
+    "video": "/data/videos/strange_talk.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which animal says 'Croak'?",
+        "options": ["Duck", "Frog", "Pig"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which animal says 'Quack'?",
+        "options": ["Frog", "Duck", "Pig"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the main idea of the poem?",
+        "options": ["Animals talking strangely", "Animals singing songs", "Animals dancing"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "The Grasshopper and the Ant",
+    "video": "/data/videos/grasshopper_and_ant.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What did the grasshopper do during summer?",
+        "options": ["Worked hard", "Sang and danced", "Collected food"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What did the ant do during summer?",
+        "options": ["Slept", "Played", "Collected food"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What is the moral of the story?",
+        "options": ["Enjoy life", "Prepare for the future", "Be lazy"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "ऊँट चला",
+    "video": "/data/videos/oomt_chala.mp4",
+    "language": "hindi",
+    "quiz": [
+      {
+        "question": "ऊँट कहाँ चला?",
+        "options": ["रेगिस्तान", "जंगल", "पर्वत"],
+        "answerIndex": 0
+      },
+      {
+        "question": "ऊँट की चाल कैसी होती है?",
+        "options": ["धीमी", "तेज़", "लहराती"],
+        "answerIndex": 2
+      },
+      {
+        "question": "ऊँट किस प्रकार का जानवर है?",
+        "options": ["जलवासी", "थलवासी", "उड़ने वाला"],
+        "answerIndex": 1
+      },
+      {
+        "question": "ऊँट किसके लिए प्रसिद्ध है?",
+        "options": ["तेज़ दौड़", "बड़ी आँखें", "रेगिस्तान में चलने की क्षमता"],
+        "answerIndex": 2
+      },
+      {
+        "question": "ऊँट के पाँव कैसे होते हैं?",
+        "options": ["नुकीले", "चौड़े और मुलायम", "कठोर और पतले"],
+        "answerIndex": 1
+      }
+    ]
+  },
+
+      {
+        "topic": "बगुला भगत",
+        "video": "/data/videos/bagula_bhagat.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "बगुला भगत कहाँ बैठा था?",
+            "options": ["तालाब के किनारे", "पहाड़ पर", "बगीचे में"],
+            "answerIndex": 0
+          },
+          {
+            "question": "बगुला क्या दिखाता था?",
+            "options": ["मछलियाँ", "ध्यान", "खेल"],
+            "answerIndex": 1
+          },
+          {
+            "question": "बगुले ने किसे खा लिया?",
+            "options": ["मछलियों को", "मेंढक को", "कछुए को"],
+            "answerIndex": 0
+          },
+          {
+            "question": "बगुला कैसा था?",
+            "options": ["ईमानदार", "धोखेबाज़", "प्यारा"],
+            "answerIndex": 1
+          },
+          {
+            "question": "कहानी से क्या सिख मिलती है?",
+            "options": ["झूठ बोलना अच्छा है", "धोखा देना बुरा है", "मछली खाना अच्छा है"],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+        "topic": "म्याऊँ, म्याऊँ!!",
+        "video": "/data/videos/myaun_myaun.mp4",
+       "language": "hindi",
+        "quiz": [
+          {
+            "question": "बिल्ली क्या कहती थी?",
+            "options": ["भौं भौं", "म्याऊँ म्याऊँ", "मैं मैं"],
+            "answerIndex": 1
+          },
+          {
+            "question": "बिल्ली कौन से रंग की थी?",
+            "options": ["काली", "सफ़ेद", "धारीदार"],
+            "answerIndex": 2
+          },
+          {
+            "question": "बिल्ली क्या करना चाहती थी?",
+            "options": ["दूध पीना", "खेलना", "सोना"],
+            "answerIndex": 0
+          },
+          {
+            "question": "बिल्ली कहाँ गई?",
+            "options": ["बाजार", "रसोई", "बगीचे"],
+            "answerIndex": 1
+          },
+          {
+            "question": "बिल्ली का व्यवहार कैसा था?",
+            "options": ["शांत", "गुस्सैल", "चंचल"],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "topic": "अधिक बलवान कौन?",
+        "video": "/data/videos/adhik_balwan.mp4",
+       "language": "hindi",
+        "quiz": [
+          {
+            "question": "इस कहानी में कौन-कौन हैं?",
+            "options": ["सूरज और चाँद", "सूरज और हवा", "हवा और पानी"],
+            "answerIndex": 1
+          },
+          {
+            "question": "किसने अपनी ताकत पहले दिखाई?",
+            "options": ["सूरज", "हवा", "दोनों ने एक साथ"],
+            "answerIndex": 1
+          },
+          {
+            "question": "हवा ने क्या किया?",
+            "options": ["धूप दी", "तेज़ चलने लगी", "बारिश की"],
+            "answerIndex": 1
+          },
+          {
+            "question": "आदमी ने कोट कब उतारा?",
+            "options": ["जब हवा चली", "जब सूरज चमका", "जब बारिश हुई"],
+            "answerIndex": 1
+          },
+          {
+            "question": "कहानी का सन्देश क्या है?",
+            "options": ["क्रोध सबसे शक्तिशाली है", "शक्ति में प्यार भी ज़रूरी है", "हवा सबसे ताकतवर है"],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+          "topic": "दोस्त की मदद",
+          "video": "/data/videos/dost_ki_madad.mp4",
+          "language": "hindi",
+          "quiz": [
+            {
+              "question": "कहानी में किसकी मदद की जाती है?",
+              "options": ["साँप", "शेर", "हाथी"],
+              "answerIndex": 1
+            },
+            {
+              "question": "कौन मदद करता है?",
+              "options": ["बंदर", "तोता", "भालू"],
+              "answerIndex": 0
+            },
+            {
+              "question": "शेर कहाँ फँस गया था?",
+              "options": ["पिंजरे में", "कुएं में", "जाल में"],
+              "answerIndex": 2
+            },
+            {
+              "question": "मित्र कौन होता है?",
+              "options": ["जो मदद करे", "जो डांटे", "जो दूर रहे"],
+              "answerIndex": 0
+            },
+            {
+              "question": "शेर ने क्या सीखा?",
+              "options": ["गुस्सा", "मदद का महत्व", "शिकार करना"],
+              "answerIndex": 1
+            }
+          ]
+        },
+        {
+          "topic": "बहादुर बित्तो",
+          "video": "/data/videos/bahadur_bitto.mp4",
+        "language": "hindi",
+          "quiz": [
+            {
+              "question": "बित्तो कौन थी?",
+              "options": ["राजकुमारी", "बहादुर लड़की", "डॉक्टर"],
+              "answerIndex": 1
+            },
+            {
+              "question": "बित्तो ने किसकी मदद की?",
+              "options": ["बिल्ली", "गांव वालों", "गाय"],
+              "answerIndex": 1
+            },
+            {
+              "question": "बित्तो को किस चीज़ से डर नहीं लगा?",
+              "options": ["अंधेरे से", "डाकुओं से", "पानी से"],
+              "answerIndex": 1
+            },
+            {
+              "question": "बित्तो कैसी थी?",
+              "options": ["डरपोक", "बहादुर", "गुस्सैल"],
+              "answerIndex": 1
+            },
+            {
+              "question": "कहानी का मुख्य संदेश क्या है?",
+              "options": ["डरना चाहिए", "बहादुरी ज़रूरी है", "झूठ बोलना सही है"],
+              "answerIndex": 1
+            }
+          ]
+        },
+        {
+          "topic": "मैं हूँ न!",
+          "video": "/data/videos/main_hoon_na.mp4",
+          "language": "hindi",
+          "quiz": [
+            {
+              "question": "कहानी में कौन मदद करता है?",
+              "options": ["बच्चा", "कुत्ता", "पापा"],
+              "answerIndex": 0
+            },
+            {
+              "question": "बच्चा क्या कहता है?",
+              "options": ["मैं करूँगा", "मैं हूँ न!", "मुझे नहीं करना"],
+              "answerIndex": 1
+            },
+            {
+              "question": "बच्चा किसकी मदद करता है?",
+              "options": ["माँ", "बहन", "दोनों"],
+              "answerIndex": 2
+            },
+            {
+              "question": "बच्चा कैसा है?",
+              "options": ["साहसी", "लालची", "स्वार्थी"],
+              "answerIndex": 0
+            },
+            {
+              "question": "कहानी का मुख्य भाव क्या है?",
+              "options": ["मदद करना", "डरना", "गुस्सा होना"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "टीवी",
+          "video": "/data/videos/tv.mp4",
+       "language": "hindi",
+          "quiz": [
+            {
+              "question": "टीवी क्या है?",
+              "options": ["खिलौना", "संचार का माध्यम", "पुस्तक"],
+              "answerIndex": 1
+            },
+            {
+              "question": "टीवी पर क्या देखा जाता है?",
+              "options": ["खेल", "समाचार", "दोनों"],
+              "answerIndex": 2
+            },
+            {
+              "question": "बच्चे टीवी क्यों देखते हैं?",
+              "options": ["समझने के लिए", "मनोरंजन के लिए", "सोने के लिए"],
+              "answerIndex": 1
+            },
+            {
+              "question": "टीवी देखने में क्या ध्यान रखना चाहिए?",
+              "options": ["ज्यादा देर देखना", "समय निर्धारित करना", "हर समय देखना"],
+              "answerIndex": 1
+            },
+            {
+              "question": "टीवी किससे जुड़ा है?",
+              "options": ["रेडियो", "इंटरनेट", "संचार"],
+              "answerIndex": 2
+            }
+          ]
+        },
+        {
+          "topic": "कुत्ता",
+          "video": "/data/videos/kutta.mp4",
+          "language": "hindi",
+          "quiz": [
+            {
+              "question": "कुत्ता कैसा जानवर है?",
+              "options": ["पालतू", "जंगली", "जलचर"],
+              "answerIndex": 0
+            },
+            {
+              "question": "कुत्ता किसका दोस्त होता है?",
+              "options": ["बिल्ली का", "इंसान का", "शेर का"],
+              "answerIndex": 1
+            },
+            {
+              "question": "कुत्ता क्या करता है?",
+              "options": ["दूध देता है", "घर की रक्षा करता है", "गीत गाता है"],
+              "answerIndex": 1
+            },
+            {
+              "question": "कुत्ते की पूंछ कैसी होती है?",
+              "options": ["सीधी", "टेढ़ी", "लंबी"],
+              "answerIndex": 1
+            },
+            {
+              "question": "कहानी में कुत्ता क्या सिखाता है?",
+              "options": ["ईमानदारी", "मित्रता", "बहादुरी"],
+              "answerIndex": 2
+            }
+          ]
+        },
+        {
+          "topic": "बोली",
+          "video": "/data/videos/boli.mp4",
+          "language": "hindi",
+          "quiz": [
+            {
+              "question": "बोली क्या होती है?",
+              "options": ["भाषा", "खेल", "पुस्तक"],
+              "answerIndex": 0
+            },
+            {
+              "question": "कहानी में कौन-कौन बोलते हैं?",
+              "options": ["पक्षी", "बच्चे", "सभी"],
+              "answerIndex": 2
+            },
+            {
+              "question": "अच्छी बोली कैसी होती है?",
+              "options": ["मीठी", "कठोर", "धीमी"],
+              "answerIndex": 0
+            },
+            {
+              "question": "बोली से क्या होता है?",
+              "options": ["झगड़ा", "संपर्क", "चुप्पी"],
+              "answerIndex": 1
+            },
+            {
+              "question": "कहानी का संदेश क्या है?",
+              "options": ["मीठा बोलो", "ज्यादा बोलो", "कभी मत बोलो"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "मिठाईवाला",
+          "video": "/data/videos/mithaaiwala.mp4",
+         "language": "hindi",
+          "quiz": [
+            {
+              "question": "मिठाईवाला क्या बेचता है?",
+              "options": ["फल", "सब्जी", "मिठाई"],
+              "answerIndex": 2
+            },
+            {
+              "question": "बच्चे मिठाई क्यों पसंद करते हैं?",
+              "options": ["खेलने के लिए", "खाने के लिए", "देखने के लिए"],
+              "answerIndex": 1
+            },
+            {
+              "question": "मिठाईवाले के पास क्या था?",
+              "options": ["घोड़ा", "सायकिल", "गाड़ी"],
+              "answerIndex": 1
+            },
+            {
+              "question": "बच्चों को क्या सिखाया गया?",
+              "options": ["शिष्टाचार", "गिनती", "मिठाई खाना"],
+              "answerIndex": 0
+            },
+            {
+              "question": "कहानी का मुख्य पात्र कौन है?",
+              "options": ["टीचर", "मिठाईवाला", "पुलिस"],
+              "answerIndex": 1
+            }
+          ]
+        },
+        {
+          "topic": "कहाँ गया मेरा बच्चा",
+          "video": "/data/videos/kahan_gaya_mera_bachcha.mp4",
+         "language": "hindi",
+          "quiz": [
+            {
+              "question": "किसका बच्चा खो गया?",
+              "options": ["माँ का", "चिड़िया का", "कुत्ते का"],
+              "answerIndex": 1
+            },
+            {
+              "question": "बच्चा कहाँ छिपा था?",
+              "options": ["पेड़ पर", "झाड़ी में", "पिंजरे में"],
+              "answerIndex": 2
+            },
+            {
+              "question": "माँ कैसी थी?",
+              "options": ["चिंतित", "खुश", "गुस्से में"],
+              "answerIndex": 0
+            },
+            {
+              "question": "बच्चा क्या कर रहा था?",
+              "options": ["रो रहा था", "खेल रहा था", "सो रहा था"],
+              "answerIndex": 1
+            },
+            {
+              "question": "कहानी का मुख्य संदेश क्या है?",
+              "options": ["खेलो लेकिन ध्यान रखो", "छिपो", "चिल्लाओ"],
+              "answerIndex": 0
+            }
+          ]
+        },
+{
+  "topic": "तितली और कली",
+  "video": "/data/videos/titli_aur_kali.mp4",
+  "language": "hindi",
+  "quiz": [
+    {
+      "question": "कहानी में कौन-कौन हैं?",
+      "options": ["तितली और फूल", "तितली और कली", "कली और पत्ता"],
+      "answerIndex": 1
+    },
+    {
+      "question": "तितली कहाँ जाती है?",
+      "options": ["कली के पास", "पेड़ पर", "जमीन पर"],
+      "answerIndex": 0
+    },
+    {
+      "question": "कली किससे डरती है?",
+      "options": ["तितली से", "सूरज से", "हवा से"],
+      "answerIndex": 1
+    },
+    {
+      "question": "कली किस रूप में बदलती है?",
+      "options": ["तितली", "फूल", "पत्ता"],
+      "answerIndex": 0
+    },
+    {
+      "question": "कहानी से क्या सीखा जाता है?",
+      "options": ["प्रकृति से प्यार करना", "आलस्य करना", "सिर्फ सोना"],
+      "answerIndex": 0
+    }
+  ]
+},    {
+    "topic": "बढ़े चलो",
+    "video": "/data/videos/badhe_chalo.mp4",
+    "language": "hindi",
+    "quiz": [
+      {
+        "question": "कहानी में कौन आगे बढ़ने की बात करता है?",
+        "options": ["बच्चे", "गाँव वाले", "सैनिक"],
+        "answerIndex": 0
+      },
+      {
+        "question": "कहानी में बच्चे कहाँ जाते हैं?",
+        "options": ["स्कूल", "बाजार", "खेलने"],
+        "answerIndex": 0
+      },
+      {
+        "question": "बच्चे किससे प्रेरित होते हैं?",
+        "options": ["आलस्य", "सपने", "प्रेरणा"],
+        "answerIndex": 2
+      },
+      {
+        "question": "बच्चे क्या सीखते हैं?",
+        "options": ["कड़ी मेहनत", "खेलना", "सोना"],
+        "answerIndex": 0
+      },
+      {
+        "question": "कहानी का मुख्य संदेश क्या है?",
+        "options": ["आलस्य से दूर रहो", "कड़ी मेहनत करो", "सपने मत देखो"],
+        "answerIndex": 1
+      }
+    ]
+  },    {
+    "topic": "What is Long, What is Round?",
+    "video": "/data/videos/what_is_long_what_is_round.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What shape is a ball?",
+        "options": ["Long", "Round", "Square"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the shape of a pencil?",
+        "options": ["Round", "Long", "Triangular"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the shape of a clock?",
+        "options": ["Round", "Straight", "Square"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What shape is a cylinder?",
+        "options": ["Round and Long", "Square", "Triangle"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is the shape of a lemon?",
+        "options": ["Round", "Long", "Flat"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Counting in Groups",
+    "video": "/data/videos/counting_in_groups.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What does counting in groups help with?",
+        "options": ["Fast counting", "Slow counting", "Wrong counting"],
+        "answerIndex": 0
+      },
+      {
+        "question": "How much is 3 groups of 10?",
+        "options": ["20", "30", "40"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is 4 groups of 5?",
+        "options": ["15", "20", "25"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Counting in groups helps in:",
+        "options": ["Understanding", "Playing", "Shopping"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which is an example of group counting?",
+        "options": ["2, 4, 6, 8", "1, 2, 3", "3, 5, 7"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "How Much Can You Carry?",
+    "video": "/data/videos/how_much_can_you_carry.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do we use to measure weight?",
+        "options": ["Ruler", "Scale", "Clock"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which is heavier?",
+        "options": ["Feather", "Rock", "Paper"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What helps us compare weights?",
+        "options": ["Balance", "Pencil", "Glass"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is used to carry things?",
+        "options": ["Bag", "Toy", "Book"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which animal carries heavy loads?",
+        "options": ["Ant", "Elephant", "Rat"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Counting in Tens",
+    "video": "/data/videos/counting_in_tens.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What comes after 10, 20, 30?",
+        "options": ["35", "40", "33"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Counting in tens helps us:",
+        "options": ["Add quickly", "Draw fast", "Sing songs"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is 5 tens?",
+        "options": ["10", "50", "5"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which number is in the tens series?",
+        "options": ["25", "30", "23"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What comes before 70?",
+        "options": ["60", "80", "50"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Patterns",
+    "video": "/data/videos/patterns.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is a pattern?",
+        "options": ["Random shapes", "Repeated design", "One line"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which of these is a pattern?",
+        "options": ["Circle, square, circle", "Circle, circle, triangle", "Line, dot, shape"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Patterns help us in:",
+        "options": ["Drawing", "Sleeping", "Understanding sequences"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which comes next: Red, Blue, Red, Blue?",
+        "options": ["Green", "Blue", "Yellow"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is repeated in a pattern?",
+        "options": ["Words", "Colors or shapes", "Games"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Footprints",
+    "video": "/data/videos/footprints.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do animals leave behind when they walk?",
+        "options": ["Lines", "Footprints", "Marks"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Whose footprints are round and big?",
+        "options": ["Dog", "Elephant", "Cat"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What can footprints tell us?",
+        "options": ["Animal’s name", "Weather", "Time"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which part of the body makes a footprint?",
+        "options": ["Tail", "Foot", "Ear"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which animal leaves tiny footprints?",
+        "options": ["Tiger", "Mouse", "Horse"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Jugs and Mugs",
+    "video": "/data/videos/jugs_and_mugs.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do we measure in jugs and mugs?",
+        "options": ["Length", "Weight", "Liquid"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which holds more water?",
+        "options": ["Cup", "Jug", "Mug"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is used to pour liquids?",
+        "options": ["Jug", "Plate", "Spoon"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which is a smaller container?",
+        "options": ["Jug", "Mug", "Bucket"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the unit to measure liquids?",
+        "options": ["Centimetre", "Litre", "Kilogram"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Tens and Ones",
+    "video": "/data/videos/tens_and_ones.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What comes in the tens place in 42?",
+        "options": ["2", "4", "1"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What comes in the ones place in 89?",
+        "options": ["9", "8", "0"],
+        "answerIndex": 0
+      },
+      {
+        "question": "How many ones make a ten?",
+        "options": ["5", "10", "1"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is 2 tens and 3 ones?",
+        "options": ["23", "32", "13"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is 6 tens and 0 ones?",
+        "options": ["60", "6", "600"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "My Funday",
+    "video": "/data/videos/my_funday.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "How many days are there in a week?",
+        "options": ["5", "6", "7"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which day comes after Monday?",
+        "options": ["Wednesday", "Tuesday", "Sunday"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which is the first day of the week?",
+        "options": ["Sunday", "Monday", "Saturday"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which day is usually a holiday?",
+        "options": ["Monday", "Sunday", "Wednesday"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which day comes before Friday?",
+        "options": ["Thursday", "Saturday", "Tuesday"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Add Our Points",
+    "video": "/data/videos/add_our_points.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is 5 + 3?",
+        "options": ["8", "6", "9"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which sign is used for addition?",
+        "options": ["-", "+", "x"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Adding means:",
+        "options": ["Taking away", "Putting together", "Sharing"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is 10 + 0?",
+        "options": ["10", "0", "1"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is 6 + 4?",
+        "options": ["9", "10", "11"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Lines and Lines",
+    "video": "/data/videos/lines_and_lines.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which line is straight?",
+        "options": ["Curved", "Zigzag", "Sleeping line"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What is a standing line?",
+        "options": ["Vertical", "Horizontal", "Round"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which line is flat and sideways?",
+        "options": ["Standing", "Sleeping", "Slanting"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which line goes up or down at an angle?",
+        "options": ["Straight", "Slanting", "Curved"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Lines can be:",
+        "options": ["Only straight", "Only curved", "Straight, slanting, or curved"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "Give and Take",
+    "video": "/data/videos/give_and_take.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is 15 - 5?",
+        "options": ["10", "20", "5"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What do we do when we give away?",
+        "options": ["Add", "Subtract", "Multiply"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Subtracting 0 from a number gives:",
+        "options": ["0", "1", "Same number"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What is 20 - 10?",
+        "options": ["30", "10", "5"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Subtracting means:",
+        "options": ["Removing", "Adding", "Joining"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "The Longest Step",
+    "video": "/data/videos/the_longest_step.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do we measure in steps?",
+        "options": ["Weight", "Length", "Time"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who takes the longest steps?",
+        "options": ["Child", "Adult", "Baby"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What unit is used for length?",
+        "options": ["Litre", "Kilogram", "Metre"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which step is longer?",
+        "options": ["Big", "Small", "Tiny"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Steps can help measure:",
+        "options": ["Distance", "Time", "Temperature"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Birds Come, Birds Go",
+    "video": "/data/videos/birds_come_birds_go.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Birds usually fly in:",
+        "options": ["Air", "Water", "Underground"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What is migration?",
+        "options": ["Flying for food", "Flying far for seasons", "Flying in circles"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which bird flies in groups?",
+        "options": ["Sparrow", "Pigeon", "Both"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Birds build their:",
+        "options": ["Homes", "Toys", "Shops"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What helps birds fly?",
+        "options": ["Wings", "Legs", "Eyes"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "How Many Ponytails?",
+    "video": "/data/videos/how_many_ponytails.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Counting helps us know the:",
+        "options": ["Name", "Number", "Color"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the total of 2 boys and 3 girls?",
+        "options": ["4", "5", "6"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is used to count people?",
+        "options": ["Scale", "Tally marks", "Litre"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which of these can we count?",
+        "options": ["Hair", "Ponytails", "Colors"],
+        "answerIndex": 1
+      },
+      {
+        "question": "If you have 3 ponytails and your friend has 2, how many total?",
+        "options": ["4", "6", "5"],
+        "answerIndex": 2
+      }
+    ]
+  },    {
+    "topic": "Going to School",
+    "video": "/data/videos/going_to_school.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "How do children go to school in different places?",
+        "options": ["Only by bus", "In many different ways", "They don’t go"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is used in hilly areas to go to school?",
+        "options": ["Camel cart", "Ropeway", "Train"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Why do children cross rivers?",
+        "options": ["To go shopping", "To visit friends", "To reach school"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which transport is used in deserts?",
+        "options": ["Camel cart", "Boat", "Scooter"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What does this chapter teach us?",
+        "options": ["Ways to skip school", "Different journeys to school", "Playing only"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Ear to Ear",
+    "video": "/data/videos/ear_to_ear.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is the chapter 'Ear to Ear' about?",
+        "options": ["Eyes", "Animals' ears", "Hair"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which animal has ears that we can see?",
+        "options": ["Tiger", "Snake", "Frog"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which animal does not have ears we can see?",
+        "options": ["Elephant", "Cow", "Bird"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What do animals with ears on their head have?",
+        "options": ["Fur", "Hair", "Milk"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Why are ears important?",
+        "options": ["For balance", "For looks", "For hearing"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "A Day with Nandu",
+    "video": "/data/videos/a_day_with_nandu.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who is Nandu?",
+        "options": ["A lion", "A baby elephant", "A monkey"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What does Nandu enjoy doing?",
+        "options": ["Flying", "Swimming", "Jumping"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who takes care of Nandu?",
+        "options": ["His parents", "His friends", "Other elephants"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What did Nandu's group do together?",
+        "options": ["Play football", "Look for food", "Watch TV"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What does this story teach us?",
+        "options": ["Elephant life", "Bird flying", "Plant growing"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "The Story of Amrita",
+    "video": "/data/videos/the_story_of_amrita.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who was Amrita?",
+        "options": ["A queen", "A girl who loved trees", "A teacher"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which tree did the people of Amrita’s village protect?",
+        "options": ["Mango", "Neem", "Khejri"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Why did Amrita hug the tree?",
+        "options": ["To play", "To save it", "To rest"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is the lesson from Amrita’s story?",
+        "options": ["Climb trees", "Protect nature", "Cut trees"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Where was Amrita from?",
+        "options": ["Village near a forest", "Desert", "City"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Plants Around Us",
+    "video": "/data/videos/plants_around_us.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do plants give us?",
+        "options": ["Stones", "Food", "Plastic"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Where do plants grow?",
+        "options": ["Water only", "Land and water", "Sky"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is a small plant called?",
+        "options": ["Tree", "Shrub", "Climber"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which plant has a weak stem?",
+        "options": ["Climber", "Tree", "Shrub"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What do plants need to grow?",
+        "options": ["Milk", "Sunlight and water", "Juice"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Food We Eat",
+    "video": "/data/videos/food_we_eat.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Why do we need food?",
+        "options": ["To sleep", "To grow and stay healthy", "To play"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which one is a fruit?",
+        "options": ["Potato", "Apple", "Carrot"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which food gives us energy?",
+        "options": ["Chips", "Rice", "Sweets"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who cooks food at home?",
+        "options": ["Pilot", "Teacher", "Family members"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What do we call food we eat in the morning?",
+        "options": ["Dinner", "Breakfast", "Lunch"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Saying Without Speaking",
+    "video": "/data/videos/saying_without_speaking.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "How can we talk without speaking?",
+        "options": ["Through signs", "By shouting", "By singing"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Who uses signs to talk?",
+        "options": ["All children", "Deaf people", "Doctors"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Clapping can mean?",
+        "options": ["Sleeping", "Happy or attention", "Eating"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Shaking head means?",
+        "options": ["Yes or No", "Jumping", "Running"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Signs help in:",
+        "options": ["Confusing others", "Communicating", "Reading"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Flying High",
+    "video": "/data/videos/flying_high.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which creatures are seen flying?",
+        "options": ["Fish", "Birds", "Tigers"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which bird can talk like humans?",
+        "options": ["Crow", "Parrot", "Pigeon"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which bird is awake at night?",
+        "options": ["Sparrow", "Owl", "Eagle"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Birds build their nests to?",
+        "options": ["Play", "Sleep", "Lay eggs"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which bird is a national bird of India?",
+        "options": ["Peacock", "Duck", "Swan"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "It's Raining",
+    "video": "/data/videos/its_raining.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What falls from the sky during rain?",
+        "options": ["Leaves", "Stones", "Water drops"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which creature enjoys rain?",
+        "options": ["Butterfly", "Frog", "Dog"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do we use to stay dry in the rain?",
+        "options": ["Stick", "Umbrella", "Shoes"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do farmers do when it rains?",
+        "options": ["Sleep", "Grow crops", "Fly kites"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Rain is important for:",
+        "options": ["Running", "Drinking and plants", "Games"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "What is Cooking",
+    "video": "/data/videos/what_is_cooking.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What does cooking mean?",
+        "options": ["Eating food", "Preparing food", "Throwing food"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which food is eaten raw?",
+        "options": ["Rice", "Carrot", "Potato"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is used for cooking?",
+        "options": ["Book", "Gas stove", "Chair"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Why do we cook food?",
+        "options": ["To waste it", "To make it tasty and safe", "To throw it"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who helps in cooking at home?",
+        "options": ["Pilot", "Family members", "Driver"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "From Here to There",
+    "video": "/data/videos/from_here_to_there.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What does 'From Here to There' mean?",
+        "options": ["Flying", "Travelling", "Jumping"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which is a means of transport?",
+        "options": ["Horse", "Cycle", "Chair"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which transport moves on water?",
+        "options": ["Car", "Boat", "Train"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What does a train run on?",
+        "options": ["Road", "Tracks", "Water"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who drives a bus?",
+        "options": ["Pilot", "Driver", "Teacher"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Work We Do",
+    "video": "/data/videos/work_we_do.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is work?",
+        "options": ["Playing", "Doing useful things", "Sleeping"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who teaches us in school?",
+        "options": ["Doctor", "Teacher", "Farmer"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who grows crops?",
+        "options": ["Driver", "Farmer", "Soldier"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What does a postman do?",
+        "options": ["Delivers letters", "Sells toys", "Plays cricket"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Is helping at home work?",
+        "options": ["Yes", "No", "Maybe"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Sharing Our Feelings",
+    "video": "/data/videos/sharing_our_feelings.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do we do when we are happy?",
+        "options": ["Cry", "Smile", "Run away"],
+        "answerIndex": 1
+      },
+      {
+        "question": "How can we help a blind person?",
+        "options": ["Laugh", "Guide them", "Ignore"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What does sharing feelings help with?",
+        "options": ["Fighting", "Understanding each other", "Running"],
+        "answerIndex": 1
+      },
+      {
+        "question": "When do we feel sad?",
+        "options": ["When we get gifts", "When we lose something", "When we play"],
+        "answerIndex": 1
+      },
+      {
+        "question": "How can we show love?",
+        "options": ["By shouting", "By caring", "By ignoring"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "The Story of Food",
+    "video": "/data/videos/the_story_of_food.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Where does food come from?",
+        "options": ["Machines", "Plants and animals", "Books"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who cooks food?",
+        "options": ["Teacher", "Cook", "Driver"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who serves food in a hotel?",
+        "options": ["Postman", "Waiter", "Farmer"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which food is cooked in a tandoor?",
+        "options": ["Rice", "Roti", "Cake"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do farmers do?",
+        "options": ["Make clothes", "Grow crops", "Drive cars"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Making Pots",
+    "video": "/data/videos/making_pots.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What are pots made from?",
+        "options": ["Wood", "Clay", "Plastic"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who makes pots?",
+        "options": ["Potter", "Doctor", "Teacher"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which tool is used by a potter?",
+        "options": ["Knife", "Potter’s wheel", "Spoon"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Why are pots baked?",
+        "options": ["To break them", "To make them strong", "To melt them"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Where is clay found?",
+        "options": ["Mountains", "Riverbanks", "Trees"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Games We Play",
+    "video": "/data/videos/games_we_play.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What are games good for?",
+        "options": ["Getting tired", "Health and fun", "Sleeping"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which game is played indoors?",
+        "options": ["Kabaddi", "Carrom", "Cricket"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which game is played outdoors?",
+        "options": ["Chess", "Football", "Ludo"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do team games teach us?",
+        "options": ["Fighting", "Teamwork", "Laziness"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which is a traditional Indian game?",
+        "options": ["Basketball", "Gilli-danda", "Hockey"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Here Comes a Letter",
+    "video": "/data/videos/here_comes_a_letter.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who brings letters to our home?",
+        "options": ["Milkman", "Postman", "Shopkeeper"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do we put on a letter?",
+        "options": ["Tape", "Stamp", "Ribbon"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Where do we drop letters?",
+        "options": ["Dustbin", "Postbox", "Basket"],
+        "answerIndex": 1
+      },
+      {
+        "question": "How do letters travel?",
+        "options": ["By hand", "Through post", "By car"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Why do we write letters?",
+        "options": ["To eat", "To communicate", "To dance"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "A House Like This!",
+    "video": "/data/videos/a_house_like_this.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What protects us from sun and rain?",
+        "options": ["Tree", "House", "Car"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is a house with walls made of mud called?",
+        "options": ["Kuccha house", "Pucca house", "Tent"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which house is strong and permanent?",
+        "options": ["Kuccha", "Pucca", "Hut"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who builds houses?",
+        "options": ["Doctor", "Mason", "Teacher"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is used to build pucca houses?",
+        "options": ["Mud", "Bricks and cement", "Paper"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Our Friends – Animals",
+    "video": "/data/videos/our_friends_animals.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which animal gives us milk?",
+        "options": ["Dog", "Cow", "Cat"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which animal guards our house?",
+        "options": ["Cat", "Goat", "Dog"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which is a pet animal?",
+        "options": ["Tiger", "Elephant", "Parrot"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which is a wild animal?",
+        "options": ["Cow", "Lion", "Dog"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Where do animals live?",
+        "options": ["Houses", "Shelters", "Gardens"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Drop by Drop",
+    "video": "/data/videos/drop_by_drop.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is important for life?",
+        "options": ["Paper", "Water", "Plastic"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What should we not waste?",
+        "options": ["Water", "Sand", "Air"],
+        "answerIndex": 0
+      },
+      {
+        "question": "From where do we get water?",
+        "options": ["Trees", "Wells and rivers", "Sky only"],
+        "answerIndex": 1
+      },
+      {
+        "question": "How can we save water?",
+        "options": ["Waste it", "Store it", "Ignore it"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who carries water in pots in villages?",
+        "options": ["Children", "Women", "Birds"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Families Can Be Different",
+    "video": "/data/videos/families_can_be_different.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who lives in a family?",
+        "options": ["Friends", "Relatives", "Family members"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What is a joint family?",
+        "options": ["Only parents", "Big family", "No family"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which family is small?",
+        "options": ["Nuclear family", "Joint family", "Big family"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What binds a family?",
+        "options": ["Money", "Love and care", "Rules"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Can families be different?",
+        "options": ["No", "Yes", "Never"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Left–Right",
+    "video": "/data/videos/left_right.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which hand is left?",
+        "options": ["Right one", "Other than right", "Both"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which side do we walk on the road?",
+        "options": ["Left", "Right", "Middle"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Right hand is used for?",
+        "options": ["Writing", "Sleeping", "Standing"],
+        "answerIndex": 0
+      },
+      {
+        "question": "What helps in directions?",
+        "options": ["Books", "Signs", "Arrows"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What is the opposite of left?",
+        "options": ["Right", "Front", "Back"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "A Beautiful Cloth",
+    "video": "/data/videos/a_beautiful_cloth.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is cloth made from?",
+        "options": ["Wood", "Fibre", "Stone"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who weaves cloth?",
+        "options": ["Potter", "Weaver", "Doctor"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do we use to dye cloth?",
+        "options": ["Water", "Colors", "Sand"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which is a natural fibre?",
+        "options": ["Plastic", "Cotton", "Iron"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What is used to sew cloth?",
+        "options": ["Hammer", "Needle", "Pen"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Web of Life",
+    "video": "/data/videos/web_of_life.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What connects all living beings?",
+        "options": ["Web of life", "Phone", "Books"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Who gives us oxygen?",
+        "options": ["Animals", "Machines", "Plants"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What do animals eat?",
+        "options": ["Chairs", "Food", "Sand"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Humans depend on?",
+        "options": ["Machines only", "Nature and animals", "Nothing"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What should we protect?",
+        "options": ["Nature", "Plastic", "Buildings"],
+        "answerIndex": 0
+      }
+    ]
+  }]

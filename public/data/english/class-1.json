@@ -1,0 +1,902 @@
+[  {
+    "topic": "Two Little Hands",
+    "video": "videos/two_little_hands.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "How many hands do we have?",
+        "options": ["One", "Two", "Three"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What can we do with our hands?",
+        "options": ["Sing", "Clap", "Look"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which part of body is used to wave?",
+        "options": ["Leg", "Hand", "Ear"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Greetings",
+    "video": "videos/greetings.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do we say in the morning?",
+        "options": ["Good Night", "Good Morning", "Good Evening"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do we say before sleeping?",
+        "options": ["Good Morning", "Good Night", "Hello"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do you say when you meet someone?",
+        "options": ["Thanks", "Bye", "Hello"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "Picture Time",
+    "video": "videos/picture_time.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What do pictures show?",
+        "options": ["Words", "Images", "Sounds"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which one is fun to see?",
+        "options": ["Stone", "Paper", "Picture"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which of these is used to draw a picture?",
+        "options": ["Pen", "Paint", "Plate"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "The Cap-seller and the Monkeys",
+    "video": "videos/cap_seller_monkeys.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who is the main character in the story?",
+        "options": ["Doctor", "Cap-seller", "Teacher"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Who took the caps?",
+        "options": ["Children", "Birds", "Monkeys"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What did the cap-seller do to get his caps back?",
+        "options": ["Shouted", "Cried", "Threw his cap"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "A Farm",
+    "video": "videos/a_farm.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What animals live on a farm?",
+        "options": ["Lion", "Cow", "Whale"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which of these can you find on a farm?",
+        "options": ["Bus", "Tractor", "Helicopter"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What grows on a farm?",
+        "options": ["Shoes", "Crops", "Balloons"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Fun with Pictures",
+    "video": "videos/fun_with_pictures.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which of these is used to make pictures?",
+        "options": ["Brush", "Spoon", "Ball"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Pictures are full of?",
+        "options": ["Water", "Colors", "Food"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What can pictures tell us?",
+        "options": ["Stories", "Noise", "Smells"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "The Food We Eat",
+    "video": "videos/food_we_eat.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which of these is healthy food?",
+        "options": ["Chips", "Fruits", "Candy"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do we need to stay strong?",
+        "options": ["Junk food", "Healthy food", "Toys"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which one is a fruit?",
+        "options": ["Bread", "Banana", "Rice"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "The Four Seasons",
+    "video": "videos/four_seasons.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which season is hot?",
+        "options": ["Winter", "Summer", "Rainy"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What do we carry in rainy season?",
+        "options": ["Fan", "Umbrella", "Cap"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which season is cold?",
+        "options": ["Summer", "Rainy", "Winter"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "Anandi’s Rainbow",
+    "video": "videos/anandis_rainbow.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What did Anandi see in the sky?",
+        "options": ["Sun", "Rainbow", "Moon"],
+        "answerIndex": 1
+
+      },
+      {
+        "question": "How many colors are in a rainbow?",
+        "options": ["4", "6", "7"],
+        "answerIndex": 2
+      },
+      {
+        "question": "What color is in a rainbow?",
+        "options": ["Red", "Black", "Brown"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Finding the Furry Cat!",
+    "video": "videos/finding_the_furry_cat.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which animal is furry and says 'meow'?",
+        "options": ["Dog", "Cat", "Cow"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What color is the furry cat in the story?",
+        "options": ["Black", "White", "Brown"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Where was the furry cat hiding?",
+        "options": ["Under the bed", "On the tree", "In the basket"],
+        "answerIndex": 2
+      }
+    ]
+  },
+  {
+    "topic": "What is Long? What is Round?",
+    "video": "videos/what_is_long_what_is_round.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which of these is long?",
+        "options": ["Pencil", "Ball", "Plate"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which of these is round?",
+        "options": ["Book", "Wheel", "Stick"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which object is both long and round?",
+        "options": ["Cylinder", "Cube", "Cone"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Mango Treat",
+    "video": "videos/mango_treat.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "How many mangoes are there in the basket?",
+        "options": ["5", "7", "9"],
+        "answerIndex": 2
+      },
+      {
+        "question": "If you eat 2 mangoes from 9, how many are left?",
+        "options": ["5", "6", "7"],
+        "answerIndex": 2
+      },
+      {
+        "question": "Which fruit is yellow and sweet?",
+        "options": ["Apple", "Mango", "Grapes"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Making 10",
+    "video": "videos/making_10.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What is 6 + 4?",
+        "options": ["9", "10", "11"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What number do you add to 7 to make 10?",
+        "options": ["2", "3", "4"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which pair adds up to 10?",
+        "options": ["5 and 5", "6 and 3", "7 and 2"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "How Many?",
+    "video": "videos/how_many.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "How many fingers are on one hand?",
+        "options": ["4", "5", "6"],
+        "answerIndex": 1
+      },
+      {
+        "question": "How many legs does a chair have?",
+        "options": ["3", "4", "5"],
+        "answerIndex": 1
+      },
+      {
+        "question": "How many wheels does a bicycle have?",
+        "options": ["2", "3", "4"],
+        "answerIndex": 0
+      }
+    ]
+  },
+  {
+    "topic": "Vegetable Farm",
+    "video": "videos/vegetable_farm.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which vegetable is orange and long?",
+        "options": ["Potato", "Carrot", "Tomato"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which vegetable is green and round?",
+        "options": ["Cabbage", "Onion", "Brinjal"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which vegetable grows underground?",
+        "options": ["Spinach", "Potato", "Cauliflower"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Lina’s Family",
+    "video": "videos/linas_family.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Who is Lina's brother?",
+        "options": ["Ravi", "Amit", "Sohan"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Who is Lina's mother?",
+        "options": ["Sita", "Gita", "Meena"],
+        "answerIndex": 2
+      },
+      {
+        "question": "How many members are there in Lina's family?",
+        "options": ["3", "4", "5"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Fun with Numbers",
+    "video": "videos/fun_with_numbers.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "What comes after 21?",
+        "options": ["20", "22", "23"],
+        "answerIndex": 1
+      },
+      {
+        "question": "What comes before 30?",
+        "options": ["28", "29", "31"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which number is greater: 45 or 54?",
+        "options": ["45", "54", "Both are equal"],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "topic": "Utsav",
+    "video": "videos/utsav.mp4",
+    "language": "english",
+    "quiz": [
+      {
+        "question": "Which festival is known as the festival of lights?",
+        "options": ["Holi", "Diwali", "Eid"],
+        "answerIndex": 1
+      },
+      {
+        "question": "Which festival involves colors?",
+        "options": ["Holi", "Christmas", "Raksha Bandhan"],
+        "answerIndex": 0
+      },
+      {
+        "question": "Which festival is celebrated with kites?",
+        "options": ["Pongal", "Makar Sankranti", "Navratri"],
+        "answerIndex": 1
+      }
+    ]
+  },
+    {
+      "topic": "How Do I Spend My Day?",
+      "video": "videos/how_do_i_spend_my_day.mp4",
+      "language": "english",
+      "quiz": [
+        {
+          "question": "What time do you wake up in the morning?",
+          "options": ["6:00 AM", "7:00 AM", "8:00 AM", "9:00 AM"],
+          "answerIndex": 0
+        },
+        {
+          "question": "Which activity do you do after brushing your teeth?",
+          "options": ["Eat breakfast", "Go to school", "Play outside", "Take a nap"],
+          "answerIndex": 0
+        },
+        {
+          "question": "What do you usually do before going to bed?",
+          "options": ["Watch TV", "Read a book", "Play games", "Eat dinner"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "How Many Times?",
+      "video": "videos/how_many_times.mp4",
+      "language": "english",
+      "quiz": [
+        {
+          "question": "If you have 2 plates with 3 apples each, how many apples do you have in total?",
+          "options": ["5", "6", "7", "8"],
+          "answerIndex": 1
+        },
+        {
+          "question": "If you have 4 bags with 2 toys each, how many toys do you have?",
+          "options": ["6", "7", "8", "9"],
+          "answerIndex": 2
+        },
+        {
+          "question": "If you have 3 boxes with 5 pencils each, how many pencils do you have?",
+          "options": ["12", "13", "14", "15"],
+          "answerIndex": 3
+        }
+      ]
+    },
+    {
+      "topic": "How Much Can We Spend?",
+      "video": "videos/how_much_can_we_spend.mp4",
+      "language": "english",
+      "quiz": [
+        {
+          "question": "If a toy costs ₹10, how many toys can you buy with ₹30?",
+          "options": ["2", "3", "4", "5"],
+          "answerIndex": 2
+        },
+        {
+          "question": "If you have ₹20 and a toy costs ₹15, how much money will you have left?",
+          "options": ["₹5", "₹10", "₹15", "₹20"],
+          "answerIndex": 0
+        },
+        {
+          "question": "If a toy costs ₹25 and you have ₹30, how much more money do you need?",
+          "options": ["₹5", "₹10", "₹15", "₹20"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "So Many Toys",
+      "video": "videos/so_many_toys.mp4",
+      "language": "english",
+      "quiz": [
+        {
+          "question": "How many toys are there in total if you have 3 dolls, 4 cars, and 5 balls?",
+          "options": ["10", "11", "12", "13"],
+          "answerIndex": 1
+        },
+        {
+          "question": "If you have 2 boxes with 6 toys each, how many toys do you have?",
+          "options": ["10", "11", "12", "13"],
+          "answerIndex": 2
+        },
+        {
+          "question": "If you have 5 bags with 3 toys each, how many toys do you have?",
+          "options": ["12", "13", "14", "15"],
+          "answerIndex": 0
+        }
+      ]
+    },        {
+      "topic": "मीना का परिवार",
+      "video": "/data/videos/meena_ka_parivar.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "मीना के परिवार में कौन-कौन है?",
+          "options": ["माँ", "पापा", "दादा-दादी", "सभी"],
+          "answerIndex": 3
+        },
+        {
+          "question": "मीना के परिवार में सबसे बड़ा कौन है?",
+          "options": ["पापा", "दादा", "माँ", "दादी"],
+          "answerIndex": 1
+        },
+        {
+          "question": "मीना के परिवार में कौन बच्चों से प्यार करता है?",
+          "options": ["माँ", "पापा", "दादा", "सभी"],
+          "answerIndex": 3
+        }
+      ]
+    },
+    {
+      "topic": "दादा-दादी",
+      "video": "/data/videos/dada_dadi.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "दादा और दादी किसे कहते हैं?",
+          "options": ["पापा और माँ", "दादी और दादा", "चाचा और चाची", "मामा और मामी"],
+          "answerIndex": 1
+        },
+        {
+          "question": "दादा और दादी बच्चों के लिए क्या करते हैं?",
+          "options": ["खेलते हैं", "कहानियाँ सुनाते हैं", "संगीत सुनते हैं", "सभी"],
+          "answerIndex": 1
+        },
+        {
+          "question": "दादा-दादी के साथ कौन रहता है?",
+          "options": ["बच्चे", "पापा", "माँ", "सभी"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "रीना का दिन",
+      "video": "/data/videos/reena_ka_din.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "रीना सुबह क्या करती है?",
+          "options": ["स्कूल जाती है", "बागवानी करती है", "खेलती है", "खाना बनाती है"],
+          "answerIndex": 0
+        },
+        {
+          "question": "रीना का प्रिय खेल क्या है?",
+          "options": ["क्रिकेट", "बैडमिंटन", "फुटबॉल", "कबड्डी"],
+          "answerIndex": 1
+        },
+        {
+          "question": "रीना कौन सी भाषा बोलती है?",
+          "options": ["हिंदी", "अंग्रेजी", "मराठी", "बंगाली"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "रानी भी",
+      "video": "/data/videos/rani_bhi.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "रानी किसके साथ खेलती है?",
+          "options": ["दादी", "दोस्त", "बच्चे", "कुत्ता"],
+          "answerIndex": 1
+        },
+        {
+          "question": "रानी किस चीज़ में रुचि रखती है?",
+          "options": ["पढ़ाई", "खेल", "चित्रकला", "संगीत"],
+          "answerIndex": 2
+        },
+        {
+          "question": "रानी का पसंदीदा खेल क्या है?",
+          "options": ["बैडमिंटन", "क्रिकेट", "सॉकर", "हॉकी"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "मिठाई",
+      "video": "/data/videos/mithai.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "मिठाई क्या होती है?",
+          "options": ["खाना", "पीने का पदार्थ", "मिठा पकवान", "सूप"],
+          "answerIndex": 2
+        },
+        {
+          "question": "मिठाई किस त्योहार में बनाई जाती है?",
+          "options": ["होली", "दिवाली", "रक्षाबंधन", "सभी"],
+          "answerIndex": 3
+        },
+        {
+          "question": "मिठाई में कौन सा मुख्य सामग्री होता है?",
+          "options": ["आटा", "चीनी", "घी", "सभी"],
+          "answerIndex": 3
+        }
+      ]
+    },
+    {
+      "topic": "तीन साथी",
+      "video": "/data/videos/teen_saathi.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "तीन साथी कौन हैं?",
+          "options": ["कुत्ता, बिल्ली, घोड़ा", "हाथी, बाघ, शेर", "मुर्गा, गाय, बकरी", "सभी"],
+          "answerIndex": 0
+        },
+        {
+          "question": "तीन साथी के बीच में कौन सबसे समझदार है?",
+          "options": ["घोड़ा", "बिल्ली", "कुत्ता", "सभी"],
+          "answerIndex": 1
+        },
+        {
+          "question": "तीन साथी किस जगह रहते हैं?",
+          "options": ["जंगल", "गाँव", "बाजार", "पार्क"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "वाह, मेरे घोड़े!",
+      "video": "/data/videos/waah_mere_ghode.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "घोड़ा किसे कहते हैं?",
+          "options": ["पशु", "पक्षी", "कीट", "सरीसृप"],
+          "answerIndex": 0
+        },
+        {
+          "question": "घोड़ा किसके लिए उपयोगी होता है?",
+          "options": ["घास खाने के लिए", "यात्रा करने के लिए", "संगीत बनाने के लिए", "सभी"],
+          "answerIndex": 1
+        },
+        {
+          "question": "घोड़े के शरीर का रंग क्या होता है?",
+          "options": ["सफेद", "काला", "भूरा", "सभी"],
+          "answerIndex": 3
+        }
+      ]
+    },
+    {
+      "topic": "खतरे में साँप",
+      "video": "/data/videos/khatre_mein_saap.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "साँप कहाँ पाया जाता है?",
+          "options": ["जल", "मिट्टी", "जंगल", "समुद्र"],
+          "answerIndex": 2
+        },
+        {
+          "question": "साँप का शरीर किस प्रकार का होता है?",
+          "options": ["लंबा", "छोटा", "मोटा", "पतला"],
+          "answerIndex": 0
+        },
+        {
+          "question": "साँप किससे शिकार करते हैं?",
+          "options": ["कंपन", "सुगंध", "ध्वनि", "सभी"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "आलू की सड़क",
+      "video": "/data/videos/aalu_ki_sadak.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "आलू किसे कहते हैं?",
+          "options": ["फल", "सब्जी", "पक्षी", "पशु"],
+          "answerIndex": 1
+        },
+        {
+          "question": "आलू को क्या बनाने में इस्तेमाल किया जाता है?",
+          "options": ["आलू का पराठा", "आलू की चिप्स", "आलू की सब्जी", "सभी"],
+          "answerIndex": 3
+        },
+        {
+          "question": "आलू में क्या मुख्य पोषक तत्व होते हैं?",
+          "options": ["प्रोटीन", "कार्बोहाइड्रेट", "विटामिन", "सभी"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "झूलम-झूली",
+      "video": "/data/videos/jhoolam_jhoolee.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "झूलम-झूली किस खेल का नाम है?",
+          "options": ["झूलना", "बचाव खेल", "दौड़", "रिंग खेल"],
+          "answerIndex": 0
+        },
+        {
+          "question": "झूलम-झूली में कौन सा उपकरण उपयोग होता है?",
+          "options": ["झूला", "बैडमिंटन रैकेट", "बैट", "हॉकी स्टिक"],
+          "answerIndex": 0
+        },
+        {
+          "question": "झूलम-झूली में खेलते समय क्या ध्यान रखना चाहिए?",
+          "options": ["संतुलन बनाए रखना", "ध्यान देना", "सभी", "कभी नहीं खेलना"],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "topic": "भुट्टे",
+      "video": "/data/videos/bhutte.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "भुट्टा किससे बना होता है?",
+          "options": ["धान", "मक्का", "गेहूं", "सारस"],
+          "answerIndex": 1
+        },
+        {
+          "question": "भुट्टा किस त्योहार में ज्यादा खाया जाता है?",
+          "options": ["दिवाली", "होली", "मकर संक्रांति", "सभी"],
+          "answerIndex": 3
+        },
+        {
+          "question": "भुट्टा किस मौसम में पाया जाता है?",
+          "options": ["गर्मी", "सर्दी", "बरसात", "वसंत"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "फूली रोटी",
+      "video": "/data/videos/phooli_roti.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "फूली रोटी किस प्रकार की होती है?",
+          "options": ["मोटी", "पतली", "फूली हुई", "सभी"],
+          "answerIndex": 2
+        },
+        {
+          "question": "रोटी बनाने में कौन-कौन सी सामग्री प्रयोग होती है?",
+          "options": ["आटा", "घी", "नमक", "सभी"],
+          "answerIndex": 3
+        },
+        {
+          "question": "रोटी किस चूल्हे पर बनाई जाती है?",
+          "options": ["चूल्हा", "गैस", "माइक्रोवेव", "सभी"],
+          "answerIndex": 0
+        }
+      ]
+    },
+      {
+        "topic": "मेला",
+        "video": "/data/videos/mela.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "मेला किसे कहते हैं?",
+            "options": ["एक स्थान जहां लोग इकट्ठा होते हैं", "एक प्रकार का खेल", "एक समारोह", "सभी"],
+            "answerIndex": 0
+          },
+          {
+            "question": "मेले में क्या गतिविधियाँ होती हैं?",
+            "options": ["खेल", "खाने के stalls", "संगीत", "सभी"],
+            "answerIndex": 3
+          },
+          {
+            "question": "मेला किस त्योहार से जुड़ा होता है?",
+            "options": ["दिवाली", "होली", "चेटीचंड", "सभी"],
+            "answerIndex": 3
+          }
+        ]
+      },
+      {
+        "topic": "बरखा और मेघा",
+        "video": "/data/videos/barsha_aur_megha.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "बरखा का मतलब क्या होता है?",
+            "options": ["बारिश", "धूप", "हवा", "बर्फ"],
+            "answerIndex": 0
+          },
+          {
+            "question": "मेघा का क्या अर्थ है?",
+            "options": ["वर्षा", "घना बादल", "पानी", "सभी"],
+            "answerIndex": 1
+          },
+          {
+            "question": "बरखा किस मौसम में होती है?",
+            "options": ["गर्मी", "सर्दी", "मानसून", "वसंत"],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "topic": "होली",
+        "video": "/data/videos/holi.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "होली कब मनाई जाती है?",
+            "options": ["दिसंबर", "मार्च", "जून", "सितंबर"],
+            "answerIndex": 1
+          },
+          {
+            "question": "होली में क्या खेला जाता है?",
+            "options": ["रंग", "पानी", "गोलगप्पे", "सभी"],
+            "answerIndex": 0
+          },
+          {
+            "question": "होली किसके साथ मनाई जाती है?",
+            "options": ["परिवार", "दोस्त", "सभी", "पड़ोसी"],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "topic": "जन्मदिवस पर पेड़ लगाओ",
+        "video": "/data/videos/janmadivas_par_ped_lagao.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "जन्मदिवस पर पेड़ क्यों लगाना चाहिए?",
+            "options": ["प्रदूषण कम करने के लिए", "खुश होने के लिए", "सभी", "कोई नहीं"],
+            "answerIndex": 0
+          },
+          {
+            "question": "पेड़ लगाने से क्या फायदा होता है?",
+            "options": ["ऑक्सीजन मिलती है", "प्रदूषण कम होता है", "सभी", "कोई नहीं"],
+            "answerIndex": 2
+          },
+          {
+            "question": "किस दिन पेड़ लगाने का महत्व है?",
+            "options": ["जन्मदिवस", "रक्षाबंधन", "होली", "दिवाली"],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "topic": "हवा",
+        "video": "/data/videos/hawa.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "हवा क्या होती है?",
+            "options": ["गैस", "पानी", "पानी का झरना", "वायु"],
+            "answerIndex": 3
+          },
+          {
+            "question": "हवा का महत्त्व क्या है?",
+            "options": ["साँस लेने के लिए", "बारिश लाने के लिए", "सभी", "कोई नहीं"],
+            "answerIndex": 0
+          },
+          {
+            "question": "हवा कहाँ से आती है?",
+            "options": ["समुद्र", "पेड़", "प्राकृतिक स्रोत", "सभी"],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "topic": "कितनी प्यारी है ये दुनिया",
+        "video": "/data/videos/kitni_pyari_hai_ye_duniya.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "दुनिया कितनी प्यारी है?",
+            "options": ["बहुत प्यारी", "सामान्य", "बुरी", "कोई नहीं"],
+            "answerIndex": 0
+          },
+          {
+            "question": "कौन सा तत्व इस दुनिया को और प्यारा बनाता है?",
+            "options": ["प्रकृति", "पानी", "धरती", "सभी"],
+            "answerIndex": 3
+          },
+          {
+            "question": "दुनिया में क्या बदलाव लाया जा सकता है?",
+            "options": ["स्वच्छता", "शांति", "सभी", "कोई नहीं"],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "topic": "चाँद का बच्चा",
+        "video": "/data/videos/chaand_ka_baccha.mp4",
+        "language": "hindi",
+        "quiz": [
+          {
+            "question": "चाँद का बच्चा किससे संबंधित है?",
+            "options": ["चाँद", "सूर्य", "पृथ्वी", "सभी"],
+            "answerIndex": 0
+          },
+          {
+            "question": "चाँद क्या है?",
+            "options": ["सितारा", "पृथ्वी का उपग्रह", "सूर्य का उपग्रह", "कोई नहीं"],
+            "answerIndex": 1
+          },
+          {
+            "question": "चाँद की रोशनी कहाँ से आती है?",
+            "options": ["सूर्य", "पृथ्वी", "धरती", "सभी"],
+            "answerIndex": 0
+          }
+        ]
+      }]
