@@ -1,22 +1,23 @@
 // src/components/DiagramViewer.js
 import React from 'react';
 
-function DiagramViewer({ topic, onBack }) {
+function VideoComponent({ topic, onBack }) {
   return (
     <div style={{ padding: '1rem' }}>
       <button onClick={onBack} style={{ marginBottom: '1rem' }}>← Back</button>
-      <h2>{topic.name} - Diagram</h2>
-      {topic.diagram ? (
-        <img
-          src={topic.diagram}
-          alt={`${topic.name} diagram`}
-          style={{ width: '100%', maxWidth: '600px', border: '1px solid #ccc', padding: '0.5rem', background: '#fff' }}
-        />
+      <h2>{topic.name} -  Video</h2>
+      {topic.video? (
+<video
+  src={topic.video}
+  controls
+  style={{ width: '100%', maxWidth: '600px', border: '1px solid #ccc', padding: '0.5rem', background: '#fff' }}
+/>
+
       ) : (
-        <p>No diagram available for this topic.</p>
+        <p>No video available for this topic.</p>
       )}
     </div>
   );
 }
 
-export default DiagramViewer;
+export default VideoComponent;

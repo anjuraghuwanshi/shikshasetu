@@ -166,8 +166,8 @@
     left: 0;
     width: 100%;
     height: 100%;
-    /* background-color: rgba(0, 0, 0, 0.6); semi-transparent backdrop */
-    background-color: #f3eaff;
+    background-color: rgba(0, 0, 0, 0.6); 
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,7 +209,8 @@
   }
   
   .modal-close:hover {
-    color: #ff4d4f;
+    background-color: white;
+    color: #000;
   }
   
   .modal-actions {
