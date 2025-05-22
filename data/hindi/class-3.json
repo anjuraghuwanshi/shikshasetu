@@ -1,0 +1,1236 @@
+[
+    {
+      "topic": "सीखो",
+      "video": "/data/videos/sikho.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "सीखने से हमें क्या मिलता है?",
+          "options": ["ज्ञान", "खेल", "नींद"],
+          "answerIndex": 0
+        },
+        {
+          "question": "सीखना क्यों जरूरी है?",
+          "options": ["समझ बढ़ाने के लिए", "खेलने के लिए", "सोने के लिए"],
+          "answerIndex": 0
+        },
+        {
+          "question": "सीखने का अच्छा तरीका क्या है?",
+          "options": ["ध्यान से सुनना", "टीवी देखना", "सोना"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "चींटी",
+      "video": "/data/videos/chianti.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "चींटी कहाँ रहती है?",
+          "options": ["पानी में", "मिट्टी में", "पेड़ पर"],
+          "answerIndex": 1
+        },
+        {
+          "question": "चींटी किस रंग की होती है?",
+          "options": ["लाल", "नीली", "पीली"],
+          "answerIndex": 0
+        },
+        {
+          "question": "चींटी क्या खाती है?",
+          "options": ["पत्ते", "मिठाई", "मांस"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "कितने पैर?",
+      "video": "/data/videos/kitne-pair.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "मनुष्य के कितने पैर होते हैं?",
+          "options": ["2", "4", "6"],
+          "answerIndex": 0
+        },
+        {
+          "question": "घोड़े के कितने पैर होते हैं?",
+          "options": ["2", "4", "6"],
+          "answerIndex": 1
+        },
+        {
+          "question": "मकड़ी के कितने पैर होते हैं?",
+          "options": ["6", "8", "10"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "बया हमारी चिड़िया रानी!",
+      "video": "/data/videos/baya.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "बया कौन है?",
+          "options": ["चिड़िया", "कुत्ता", "बिल्ली"],
+          "answerIndex": 0
+        },
+        {
+          "question": "बया किस प्रकार का घोंसला बनाती है?",
+          "options": ["झोपड़ी जैसा", "सरल", "जालीनुमा"],
+          "answerIndex": 2
+        },
+        {
+          "question": "बया कहाँ घोंसला बनाती है?",
+          "options": ["धरती पर", "पेड़ की डाल पर", "छत पर"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "आम का पेड़",
+      "video": "/data/videos/aam-ka-ped.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "आम के पेड़ पर क्या लगता है?",
+          "options": ["संतरा", "केला", "आम"],
+          "answerIndex": 2
+        },
+        {
+          "question": "आम का पेड़ कैसा होता है?",
+          "options": ["झाड़ी", "छोटा", "लंबा"],
+          "answerIndex": 2
+        },
+        {
+          "question": "आम किस मौसम में आते हैं?",
+          "options": ["सर्दी", "गर्मी", "बरसात"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "बीरबल की खिचड़ी",
+      "video": "/data/videos/birbal-ki-khichdi.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "बीरबल किसके मंत्री थे?",
+          "options": ["अकबर", "हुमायूं", "शेरशाह"],
+          "answerIndex": 0
+        },
+        {
+          "question": "बीरबल ने क्या पकाने की बात कही?",
+          "options": ["रोटी", "दाल", "खिचड़ी"],
+          "answerIndex": 2
+        },
+        {
+          "question": "बीरबल किस बात के लिए प्रसिद्ध हैं?",
+          "options": ["चतुराई", "शक्ति", "बहादुरी"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "मित्र को पत्र",
+      "video": "/data/videos/mitra-ko-patra.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "पत्र किसे लिखा गया?",
+          "options": ["शिक्षक", "माँ", "दोस्त"],
+          "answerIndex": 2
+        },
+        {
+          "question": "पत्र में क्या बताया गया?",
+          "options": ["तारीख", "खुशियाँ", "बीमारी"],
+          "answerIndex": 1
+        },
+        {
+          "question": "पत्र किस माध्यम से भेजा गया?",
+          "options": ["फोन कॉल", "चिट्ठी", "मोबाइल"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "चतुर गीदड़",
+      "video": "/data/videos/chaturr-geedhad.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "कहानी में मुख्य पात्र कौन है?",
+          "options": ["शेर", "हाथी", "गीदड़"],
+          "answerIndex": 2
+        },
+        {
+          "question": "गीदड़ कैसा था?",
+          "options": ["धीमा", "मूर्ख", "चतुर"],
+          "answerIndex": 2
+        },
+        {
+          "question": "गीदड़ ने किसे बेवकूफ बनाया?",
+          "options": ["सिंह", "भालू", "लोमड़ी"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "प्रकृति पर्व – फूलदेई",
+      "video": "/data/videos/phooldei.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "फूलदेई किसका पर्व है?",
+          "options": ["शादी", "पढ़ाई", "प्रकृति"],
+          "answerIndex": 2
+        },
+        {
+          "question": "फूलदेई किस राज्य से जुड़ा है?",
+          "options": ["राजस्थान", "उत्तराखंड", "पंजाब"],
+          "answerIndex": 1
+        },
+        {
+          "question": "फूलदेई में बच्चे क्या करते हैं?",
+          "options": ["गाना गाते हैं", "खेलते हैं", "फूल बिछाते हैं"],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "topic": "रस्साकशी",
+      "video": "/data/videos/rassakashi.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "रस्साकशी खेल में किसे जीतना होता है?",
+          "options": ["कमज़ोर को", "मजबूत को", "सबको"],
+          "answerIndex": 1
+        },
+        {
+          "question": "रस्साकशी किस खेल का हिस्सा है?",
+          "options": ["मैदान", "कबड्डी", "खो-खो"],
+          "answerIndex": 0
+        },
+        {
+          "question": "रस्साकशी में किसकी ज़रूरत होती है?",
+          "options": ["लाठी", "रस्सी", "गेंद"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "एक जादुई पिटारा",
+      "video": "/data/videos/jadui-pitara.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "जादुई पिटारे में क्या था?",
+          "options": ["सुविधाएँ", "खिलौने", "गहने"],
+          "answerIndex": 0
+        },
+        {
+          "question": "क्या एक जादुई पिटारा सच में होता है?",
+          "options": ["हां", "नहीं", "कभी नहीं"],
+          "answerIndex": 1
+        },
+        {
+          "question": "कहानी में जादुई पिटारा किसका था?",
+          "options": ["बच्चों का", "बूढ़े का", "किसान का"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "अपना-अपना काम",
+      "video": "/data/videos/apna-kaam.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "हमारे काम करने का उद्देश्य क्या होता है?",
+          "options": ["समझ", "कला", "कर्म"],
+          "answerIndex": 2
+        },
+        {
+          "question": "क्या हमें अपना काम करना चाहिए?",
+          "options": ["हां", "नहीं", "कभी कभी"],
+          "answerIndex": 0
+        },
+        {
+          "question": "काम करने से क्या फायदा होता है?",
+          "options": ["मान-सम्मान", "खुश रहना", "सब कुछ"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "पेड़ों की अम्मा 'थिमक्का'",
+      "video": "/data/videos/thimmakka.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "'थिमक्का' कौन थी?",
+          "options": ["किसान", "शिक्षिका", "माली"],
+          "answerIndex": 0
+        },
+        {
+          "question": "थिमक्का ने क्या किया था?",
+          "options": ["वृक्षारोपण", "पढ़ाई", "संगीत"],
+          "answerIndex": 0
+        },
+        {
+          "question": "थिमक्का ने कितने पेड़ लगाए?",
+          "options": ["10", "100", "1,000"],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+      "topic": "किसान की होशियारी",
+      "video": "/data/videos/kisan-hoshiyaari.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "किसान ने किसको हराया?",
+          "options": ["बैल", "सांप", "मित्र"],
+          "answerIndex": 1
+        },
+        {
+          "question": "किसान ने किसका इस्तेमाल किया?",
+          "options": ["सिंचाई", "वृक्षारोपण", "चालाकी"],
+          "answerIndex": 2
+        },
+        {
+          "question": "किसान का काम क्या था?",
+          "options": ["किसान होना", "खेती करना", "घरों में काम करना"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "भारत",
+      "video": "/data/videos/bharat.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "भारत की राजधानी क्या है?",
+          "options": ["दिल्ली", "मुंबई", "कोलकाता"],
+          "answerIndex": 0
+        },
+        {
+          "question": "भारत में कितने राज्य हैं?",
+          "options": ["20", "28", "30"],
+          "answerIndex": 1
+        },
+        {
+          "question": "भारत में कौन सा पर्व मनाया जाता है?",
+          "options": ["होली", "Christmas", "ईद"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "चंद्रयान (संवाद)",
+      "video": "/data/videos/chandrayaan.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "चंद्रयान किसका नाम है?",
+          "options": ["भारत", "अमेरिका", "चीन"],
+          "answerIndex": 0
+        },
+        {
+          "question": "चंद्रयान का मुख्य उद्देश्य क्या था?",
+          "options": ["चांद पर पानी खोज", "शब्द खोज", "मंगल पर मिशन"],
+          "answerIndex": 0
+        },
+        {
+          "question": "चंद्रयान किस ग्रह पर भेजा गया?",
+          "options": ["चांद", "मंगल", "शनि"],
+          "answerIndex": 0
+        }
+      ]
+    },
+    {
+      "topic": "बोलने वाली माँद",
+      "video": "/data/videos/maand.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "माँद किसकी होती है?",
+          "options": ["लोमड़ी", "हाथी", "घोड़ा"],
+          "answerIndex": 0
+        },
+        {
+          "question": "माँद में कौन रहता है?",
+          "options": ["लोमड़ी", "सिंह", "बिल्ली"],
+          "answerIndex": 0
+        },
+        {
+          "question": "क्या माँद बोल सकती है?",
+          "options": ["हां", "नहीं", "कभी-कभी"],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "topic": "हम अनेक किंतु एक",
+      "video": "/data/videos/anek-ek.mp4",
+      "language": "hindi",
+      "quiz": [
+        {
+          "question": "भारत की विविधता किससे जुड़ी है?",
+          "options": ["धर्म", "भाषा", "संस्कृति"],
+          "answerIndex": 1
+        },
+        {
+          "question": "भारत का राष्ट्रीय गीत कौन सा है?",
+          "options": ["वन्दे मातरम्", "जन गण मन", "सारे जहाँ से अच्छा"],
+          "answerIndex": 0
+        },
+        {
+          "question": "हमारे देश की एकता किससे साबित होती है?",
+          "options": ["संस्कृति", "भाषा", "भ्रातृत्व"],
+          "answerIndex": 2
+        }
+      ]
+    },
+    {
+        "topic": "Fun with Friends",
+        "video": "/data/videos/fun-with-friends.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What is the story about?",
+            "options": ["A family", "A friendship", "A village"],
+            "answerIndex": 1
+          },
+          {
+            "question": "What did the friends do in the story?",
+            "options": ["Fight", "Play", "Study"],
+            "answerIndex": 1
+          },
+          {
+            "question": "Who is the main character in 'Fun with Friends'?",
+            "options": ["Badal", "Moti", "Both"],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "topic": "Badal and Moti",
+        "video": "/data/videos/badal-and-moti.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "Who are Badal and Moti?",
+            "options": ["Friends", "Animals", "Birds"],
+            "answerIndex": 0
+          },
+          {
+            "question": "What happens in the story of Badal and Moti?",
+            "options": ["They fight", "They play", "They talk"],
+            "answerIndex": 2
+          },
+          {
+            "question": "Where do Badal and Moti live?",
+            "options": ["In a garden", "On a mountain", "In a house"],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "topic": "Best Friends",
+        "video": "/data/videos/best-friends.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What is the main theme of 'Best Friends'?",
+            "options": ["Friendship", "Fighting", "Animals"],
+            "answerIndex": 0
+          },
+          {
+            "question": "Who are the best friends in the story?",
+            "options": ["Badal and Moti", "Tom and Jerry", "Harry and Ron"],
+            "answerIndex": 0
+          },
+          {
+            "question": "What do friends do in the story?",
+            "options": ["Help each other", "Play games", "Fight"],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+        "topic": "Toys and Games",
+        "video": "/data/videos/toys-and-games.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What is the importance of toys and games?",
+            "options": ["To learn", "To play", "To fight"],
+            "answerIndex": 1
+          },
+          {
+            "question": "Which toy is mentioned in the chapter?",
+            "options": ["Dolls", "Ball", "Board games"],
+            "answerIndex": 1
+          },
+          {
+            "question": "What do toys and games help children to do?",
+            "options": ["Sleep", "Learn", "Eat"],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+        "topic": "Talking Toys",
+        "video": "/data/videos/talking-toys.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What happens in the story of Talking Toys?",
+            "options": ["Toys come to life", "Toys talk", "Toys play with children"],
+            "answerIndex": 1
+          },
+          {
+            "question": "Who plays with the talking toys?",
+            "options": ["A boy", "A girl", "Both"],
+            "answerIndex": 2
+          },
+          {
+            "question": "Where do the toys talk?",
+            "options": ["In the room", "In the garden", "In the shop"],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "topic": "Paper Boats",
+        "video": "/data/videos/paper-boats.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What is made of paper in the story?",
+            "options": ["Boat", "Ball", "Hat"],
+            "answerIndex": 0
+          },
+          {
+            "question": "Where does the paper boat float?",
+            "options": ["In the water", "On the road", "In the sky"],
+            "answerIndex": 0
+          },
+          {
+            "question": "Who makes the paper boat?",
+            "options": ["A child", "A teacher", "A father"],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "topic": "Good Food",
+        "video": "/data/videos/good-food.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What makes food good?",
+            "options": ["Taste", "Nutrients", "Color"],
+            "answerIndex": 1
+          },
+          {
+            "question": "What is an example of good food?",
+            "options": ["Fruits", "Candy", "Chocolate"],
+            "answerIndex": 0
+          },
+          {
+            "question": "Why is food important?",
+            "options": ["To play", "To stay healthy", "To sleep"],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+        "topic": "Thank God",
+        "video": "/data/videos/thank-god.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "Why do we thank God?",
+            "options": ["For blessings", "For games", "For toys"],
+            "answerIndex": 0
+          },
+          {
+            "question": "What is said in the story?",
+            "options": ["Thank you, God!", "Please, God!", "Sorry, God!"],
+            "answerIndex": 0
+          },
+          {
+            "question": "What does thanking God show?",
+            "options": ["Respect", "Fear", "Hate"],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "topic": "Madhu's Wish",
+        "video": "/data/videos/madhus-wish.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What is Madhu's wish?",
+            "options": ["To travel", "To help others", "To study"],
+            "answerIndex": 1
+          },
+          {
+            "question": "How does Madhu feel about his wish?",
+            "options": ["Happy", "Sad", "Excited"],
+            "answerIndex": 0
+          },
+          {
+            "question": "Who helps Madhu?",
+            "options": ["Family", "Friends", "Teacher"],
+            "answerIndex": 1
+          }
+        ]
+      },
+      {
+        "topic": "The Sky",
+        "video": "/data/videos/the-sky.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What do we see in the sky?",
+            "options": ["Clouds", "Birds", "Stars"],
+            "answerIndex": 0
+          },
+          {
+            "question": "What makes the sky blue?",
+            "options": ["Sunlight", "Clouds", "Rain"],
+            "answerIndex": 0
+          },
+          {
+            "question": "At night, we can see which object in the sky?",
+            "options": ["Moon", "Birds", "Stars"],
+            "answerIndex": 2
+          }
+        ]
+      },
+      {
+        "topic": "Chanda Mama Counts the Stars",
+        "video": "/data/videos/chanda-mama.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "Who counts the stars?",
+            "options": ["Chanda Mama", "Sun", "Moon"],
+            "answerIndex": 0
+          },
+          {
+            "question": "Where do the stars come from?",
+            "options": ["Space", "Earth", "Water"],
+            "answerIndex": 0
+          },
+          {
+            "question": "What is Chanda Mama's relationship with the stars?",
+            "options": ["He counts them", "He watches them", "He makes them"],
+            "answerIndex": 0
+          }
+        ]
+      },
+      {
+        "topic": "Chandrayaan",
+        "video": "/data/videos/chandrayaan.mp4",
+        "language": "english",
+        "quiz": [
+          {
+            "question": "What is Chandrayaan?",
+            "options": ["Mission to the moon", "A satellite", "A planet"],
+            "answerIndex": 0
+          },
+          {
+            "question": "Who launched Chandrayaan?",
+            "options": ["India", "USA", "Russia"],
+            "answerIndex": 0
+          },
+          {
+            "question": "What was the main goal of Chandrayaan?",
+            "options": ["To land on the moon", "To explore Mars", "To study stars"],
+            "answerIndex": 0
+          }
+        ]
+      },
+        {
+          "topic": "नाम में क्या रखा है?",
+          "video": "/data/videos/whats-in-a-name.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "पहले अध्याय का नाम क्या है?",
+              "options": ["नाम में क्या रखा है?", "खिलौनों की खुशी", "डबल सेंचुरी"],
+              "answerIndex": 0
+            },
+            {
+              "question": "कौन सा विषय नामों से संबंधित है?",
+              "options": ["खिलौने", "नाम", "खेल"],
+              "answerIndex": 1
+            },
+            {
+              "question": "इस अध्याय में किस प्रकार के नामों की चर्चा की गई है?",
+              "options": ["प्रसिद्ध नाम", "व्यक्तिगत नाम", "व्यापारिक नाम"],
+              "answerIndex": 1
+            }
+          ]
+        },
+        {
+          "topic": "खिलौनों की खुशी",
+          "video": "/data/videos/toy-joy.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "इस अध्याय में किस प्रकार के खिलौनों की चर्चा की गई है?",
+              "options": ["लकड़ी के खिलौने", "इलेक्ट्रॉनिक खिलौने", "विभिन्न प्रकार के खिलौने"],
+              "answerIndex": 2
+            },
+            {
+              "question": "अध्याय में खिलौनों से जुड़ी कौन सी गतिविधि है?",
+              "options": ["खेलना", "बनाना", "दोनों"],
+              "answerIndex": 2
+            },
+            {
+              "question": "कितने प्रकार के खिलौनों का उल्लेख किया गया है?",
+              "options": ["दो", "पाँच", "कई"],
+              "answerIndex": 2
+            }
+          ]
+        },
+        {
+          "topic": "डबल सेंचुरी",
+          "video": "/data/videos/double-century.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "डबल सेंचुरी अध्याय में किसे दर्शाता है?",
+              "options": ["किसी चीज़ की सदी", "दो सदी", "एक विशेष संख्या"],
+              "answerIndex": 1
+            },
+            {
+              "question": "इस अध्याय का मुख्य विचार क्या है?",
+              "options": ["बड़ी संख्याएँ", "जोड़", "समय माप"],
+              "answerIndex": 0
+            },
+            {
+              "question": "सेंचुरी का क्या अर्थ होता है?",
+              "options": ["100", "50", "200"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "नानी माँ के साथ छुट्टियाँ",
+          "video": "/data/videos/vacation-with-nani-maa.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "छुट्टियाँ कहाँ बिताई जाती हैं?",
+              "options": ["समुंदर किनारे", "नानी के घर", "दोस्त के घर"],
+              "answerIndex": 1
+            },
+            {
+              "question": "इस कहानी में मुख्य पात्र कौन है?",
+              "options": ["शिक्षक", "कहानीकार की नानी", "कहानीकार का दोस्त"],
+              "answerIndex": 1
+            },
+            {
+              "question": "अध्याय में कौन सी गतिविधि की चर्चा है?",
+              "options": ["खेलना", "नानी से मिलना", "नई चीज़ें सीखना"],
+              "answerIndex": 1
+            }
+          ]
+        },
+        {
+          "topic": "आकारों के साथ मज़ा",
+          "video": "/data/videos/fun-with-shapes.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "इस अध्याय में कौन-कौन से आकारों की खोज की गई है?",
+              "options": ["वृत्त, वर्ग, त्रिकोण", "वृत्त, आयत", "त्रिकोण, षट्भुज"],
+              "answerIndex": 0
+            },
+            {
+              "question": "किस आकार की चार बराबर भुजाएँ होती हैं?",
+              "options": ["वर्ग", "वृत्त", "त्रिकोण"],
+              "answerIndex": 0
+            },
+            {
+              "question": "घड़ी का आकार कैसा होता है?",
+              "options": ["वृत्त", "आयत", "अंडाकार"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "सैंकड़ों का घर - I",
+          "video": "/data/videos/house-of-hundreds-1.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "इस अध्याय का मुख्य उद्देश्य क्या है?",
+              "options": ["सैंकड़ों को सीखना", "जोड़", "समय प्रबंधन"],
+              "answerIndex": 0
+            },
+            {
+              "question": "कौन सी संख्या सैंकड़ों से जुड़ी है?",
+              "options": ["100", "200", "50"],
+              "answerIndex": 0
+            },
+            {
+              "question": "300 को सैंकड़ों में कैसे दिखाते हैं?",
+              "options": ["3 सैंकड़े", "2 सैंकड़े", "5 सैंकड़े"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "रक्षाबंधन",
+          "video": "/data/videos/raksha-bandhan.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "इस अध्याय में क्या मनाया जाता है?",
+              "options": ["दोस्ती", "रक्षाबंधन", "नया साल"],
+              "answerIndex": 1
+            },
+            {
+              "question": "बहनें अपने भाइयों को क्या बाँधती हैं?",
+              "options": ["राखी", "उपहार", "फूल"],
+              "answerIndex": 0
+            },
+            {
+              "question": "रक्षाबंधन कब मनाया जाता है?",
+              "options": ["अगस्त में", "दिसंबर में", "मार्च में"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "समान बंटवारा",
+          "video": "/data/videos/fair-share.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "समान बंटवारा का क्या अर्थ है?",
+              "options": ["समान वितरण", "असमान वितरण", "यादृच्छिक वितरण"],
+              "answerIndex": 0
+            },
+            {
+              "question": "समान बंटवारा किससे संबंधित है?",
+              "options": ["समान रूप से बाँटना", "ज़्यादा लेना", "न बाँटना"],
+              "answerIndex": 0
+            },
+            {
+              "question": "समूह में चीजों को कैसे बाँटोगे?",
+              "options": ["समान रूप से", "एक-एक करके", "यादृच्छिक रूप से"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "सैंकड़ों का घर - II",
+          "video": "/data/videos/house-of-hundreds-2.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "इस अध्याय में कौन सा विचार विस्तृत किया गया है?",
+              "options": ["सैंकड़े", "दहाई", "बड़ी संख्याओं का जोड़"],
+              "answerIndex": 2
+            },
+            {
+              "question": "दो सैंकड़ों का मूल्य क्या है?",
+              "options": ["200", "100", "50"],
+              "answerIndex": 0
+            },
+            {
+              "question": "300 को सैंकड़ों में कैसे लिखते हैं?",
+              "options": ["3 सैंकड़े", "1 सैंकड़ा", "10 सैंकड़े"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "कक्षा पार्टी में मज़ा!",
+          "video": "/data/videos/fun-at-class-party.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "कक्षा पार्टी किस बारे में है?",
+              "options": ["खेल", "सीखना", "समूह गतिविधियाँ"],
+              "answerIndex": 0
+            },
+            {
+              "question": "पार्टी के दौरान कौन सी गतिविधि की जाती है?",
+              "options": ["नाचना", "नाश्ता करना", "खेल खेलना"],
+              "answerIndex": 2
+            },
+            {
+              "question": "कक्षा पार्टी का आयोजन कौन करता है?",
+              "options": ["छात्र", "शिक्षक", "अभिभावक"],
+              "answerIndex": 1
+            }
+          ]
+        },
+        {
+          "topic": "भरना और उठाना",
+          "video": "/data/videos/filling-and-lifting.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "इस अध्याय में कौन सी गतिविधि शामिल है?",
+              "options": ["भारी वस्तुएँ उठाना", "बर्तनों को भरना", "वज़न उठाना"],
+              "answerIndex": 1
+            },
+            {
+              "question": "इनमें से क्या उठाया जा सकता है?",
+              "options": ["भारी वस्तुएँ", "हल्की वस्तुएँ", "दोनों"],
+              "answerIndex": 2
+            },
+            {
+              "question": "बर्तनों में क्या भरा जाता है?",
+              "options": ["पानी", "रेत", "दोनों"],
+              "answerIndex": 2
+            }
+          ]
+        },
+        {
+          "topic": "देना और लेना",
+          "video": "/data/videos/give-and-take.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "'देना और लेना' किसका संकेत करता है?",
+              "options": ["उपहारों का आदान-प्रदान", "साझा करना", "दोनों"],
+              "answerIndex": 2
+            },
+            {
+              "question": "अगर आपको कुछ चाहिए तो आपको क्या करना चाहिए?",
+              "options": ["देना", "लेना", "माँगना"],
+              "answerIndex": 0
+            },
+            {
+              "question": "न्यायपूर्ण आदान-प्रदान क्या है?",
+              "options": ["दोनों समान रूप से दें और लें", "एक ज़्यादा ले", "एक ज़्यादा दे"],
+              "answerIndex": 0
+            }
+          ]
+        },
+        {
+          "topic": "समय चलता रहता है",
+          "video": "/data/videos/time-goes-on.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "इस अध्याय में किस विचार की चर्चा है?",
+              "options": ["समय प्रबंधन", "ऋतुएँ", "घड़ी पढ़ना"],
+              "answerIndex": 0
+            },
+            {
+              "question": "हम समय को कैसे मापते हैं?",
+              "options": ["घड़ी से", "सूरज से", "दोनों"],
+              "answerIndex": 2
+            },
+            {
+              "question": "समय की एक इकाई क्या है?",
+              "options": ["मिनट", "वर्ष", "दोनों"],
+              "answerIndex": 2
+            }
+          ]
+        },
+        {
+          "topic": "सुरजकुंड मेला",
+          "video": "/data/videos/surajkund-fair.mp4",
+          "language": "हिंदी",
+          "quiz": [
+            {
+              "question": "सुरजकुंड मेला कहाँ लगता है?",
+              "options": ["सुरजकुंड", "दिल्ली", "मुंबई"],
+              "answerIndex": 0
+            },
+            {
+              "question": "सुरजकुंड मेला किस प्रकार का मेला है?",
+              "options": ["हस्तशिल्प मेला", "खान-पान मेला", "प्रौद्योगिकी मेला"],
+              "answerIndex": 0
+            },
+            {
+              "question": "सुरजकुंड किस राज्य में है?",
+              "options": ["उत्तर प्रदेश", "हरियाणा", "दिल्ली"],
+              "answerIndex": 1
+            }
+          ]
+        },
+            {
+              "topic": "हमारे परिवार और समुदाय",
+              "video": "/data/videos/families-and-communities.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "हमारे परिवार की सबसे महत्वपूर्ण विशेषता क्या है?",
+                  "options": ["एक साथ समय बिताना", "एक साथ रहना", "एक-दूसरे की देखभाल करना"],
+                  "answerIndex": 1
+                },
+                {
+                  "question": "समुदाय के सदस्य एक-दूसरे की मदद कैसे करते हैं?",
+                  "options": ["दोस्ती", "दूसरों को खुश करना", "संचार"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "परिवार का क्या महत्व है?",
+                  "options": ["सहारा", "पैसा", "बड़ी संपत्ति"],
+                  "answerIndex": 0
+                }
+              ]
+            },
+            {
+              "topic": "मेले में जाना",
+              "video": "/data/videos/going-to-the-mela.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "मेला क्यों खास होता है?",
+                  "options": ["खिलौने", "खाना", "मनोरंजन"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "आप मेले में क्या कर सकते हैं?",
+                  "options": ["खेल खेलना", "घूमना", "दोनों"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "मेला किसका प्रतीक है?",
+                  "options": ["समय की कमी", "समुदाय की एकता", "शांति"],
+                  "answerIndex": 1
+                }
+              ]
+            },
+            {
+              "topic": "त्योहार मनाना",
+              "video": "/data/videos/celebrating-festivals.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "हम त्योहार क्यों मनाते हैं?",
+                  "options": ["खुशी और समृद्धि के लिए", "मज़े के लिए", "सामूहिक आनंद के लिए"],
+                  "answerIndex": 0
+                },
+                {
+                  "question": "दीवाली क्या है?",
+                  "options": ["एक त्योहार", "एक बड़ी पार्टी", "संगीत"],
+                  "answerIndex": 0
+                },
+                {
+                  "question": "त्योहारों के दौरान लोग क्या करते हैं?",
+                  "options": ["प्रार्थना", "भोजन करना", "नृत्य"],
+                  "answerIndex": 1
+                }
+              ]
+            },
+            {
+              "topic": "हमारे आसपास का जीवन",
+              "video": "/data/videos/life-around-us.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "हमारे आसपास किस तरह की जीवनशैली दिखती है?",
+                  "options": ["कृषि", "पशुपालन", "मानव गतिविधियाँ"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "हमारे आसपास क्या मौजूद है?",
+                  "options": ["पानी", "पृथ्वी", "हरित वातावरण"],
+                  "answerIndex": 1
+                },
+                {
+                  "question": "क्या जीवन अंतहीन है?",
+                  "options": ["हाँ", "नहीं", "कुछ हद तक"],
+                  "answerIndex": 2
+                }
+              ]
+            },
+            {
+              "topic": "पौधे और जानवर साथ रहते हैं",
+              "video": "/data/videos/plants-and-animals.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "पौधे और जानवर कैसे साथ रहते हैं?",
+                  "options": ["एक-दूसरे को भोजन देकर", "एक-दूसरे के वातावरण में रहकर", "वे अलग रहते हैं"],
+                  "answerIndex": 1
+                },
+                {
+                  "question": "पौधे क्या लाभ देते हैं?",
+                  "options": ["प्राकृतिक भोजन", "साँस लेने के लिए ऑक्सीजन", "दोनों"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "जानवरों के लिए पौधे क्यों महत्वपूर्ण हैं?",
+                  "options": ["आश्रय और भोजन", "सजावट", "ठंड से सुरक्षा"],
+                  "answerIndex": 0
+                }
+              ]
+            },
+            {
+              "topic": "सामंजस्य में रहना",
+              "video": "/data/videos/living-in-harmony.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "हम शांति से कैसे रह सकते हैं?",
+                  "options": ["सबसे दोस्ती करके", "सामाजिक अनुशासन का पालन करके", "अपनी बात मनवाकर"],
+                  "answerIndex": 1
+                },
+                {
+                  "question": "शांति का क्या महत्व है?",
+                  "options": ["समुदाय में एकता", "व्यक्तिगत विकास", "एकाग्रता"],
+                  "answerIndex": 0
+                },
+                {
+                  "question": "हम शांति कैसे बढ़ा सकते हैं?",
+                  "options": ["विचार साझा करके", "मिलकर काम करके", "कभी न लड़कर"],
+                  "answerIndex": 1
+                }
+              ]
+            },
+            {
+              "topic": "प्रकृति के उपहार",
+              "video": "/data/videos/gifts-of-nature.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "प्रकृति के उपहारों में क्या शामिल है?",
+                  "options": ["पानी", "धूप", "ऊपर दिए गए सभी"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "पौधे और प्रकृति क्या प्रदान करते हैं?",
+                  "options": ["स्वच्छता", "संसाधन", "सुगंध"],
+                  "answerIndex": 1
+                },
+                {
+                  "question": "प्रकृति का क्या महत्व है?",
+                  "options": ["हमारी जीवनशैली", "समाज", "कृषि"],
+                  "answerIndex": 0
+                }
+              ]
+            },
+            {
+              "topic": "हम जो भोजन खाते हैं",
+              "video": "/data/videos/food-we-eat.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "भोजन के मुख्य घटक क्या हैं?",
+                  "options": ["कार्बोहाइड्रेट", "प्रोटीन", "ऊपर दिए गए सभी"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "संतुलित आहार का क्या महत्व है?",
+                  "options": ["स्वस्थ रहने में मदद करता है", "पेट भरने के लिए", "कोई नहीं"],
+                  "answerIndex": 0
+                },
+                {
+                  "question": "अच्छे स्वास्थ्य के लिए हमें रोज क्या खाना चाहिए?",
+                  "options": ["फल और सब्जियाँ", "प्रोसेस्ड फूड", "सिर्फ चीनी"],
+                  "answerIndex": 0
+                }
+              ]
+            },
+            {
+              "topic": "स्वस्थ और खुश रहना",
+              "video": "/data/videos/staying-healthy-happy.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "स्वस्थ रहने के लिए क्या जरूरी है?",
+                  "options": ["व्यायाम", "स्वस्थ भोजन", "दोनों"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "हम खुश कैसे रह सकते हैं?",
+                  "options": ["सकारात्मक सोच", "अकेले समय बिताकर", "काम से बचकर"],
+                  "answerIndex": 0
+                },
+                {
+                  "question": "एक व्यक्ति को स्वस्थ क्या बनाता है?",
+                  "options": ["सही नींद", "स्वस्थ भोजन", "दोनों"],
+                  "answerIndex": 2
+                }
+              ]
+            },
+            {
+              "topic": "हमारे चारों ओर की चीजें",
+              "video": "/data/videos/things-around-us.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "हमारे चारों ओर सबसे सामान्य चीज़ क्या है?",
+                  "options": ["हवा", "खिलौने", "जानवर"],
+                  "answerIndex": 0
+                },
+                {
+                  "question": "हमारे चारों ओर की चीजें हमारी कैसे मदद करती हैं?",
+                  "options": ["संसाधन देकर", "उपयोगी बनकर", "ऊपर दिए गए सभी"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "हमें अपने चारों ओर की चीज़ों के साथ क्या करना चाहिए?",
+                  "options": ["उन्हें जिम्मेदारी से उपयोग करें", "उन्हें फेंक दें", "उन्हें अनदेखा करें"],
+                  "answerIndex": 0
+                }
+              ]
+            },
+            {
+              "topic": "चीजें बनाना",
+              "video": "/data/videos/making-things.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "चीजें बनाने के लिए हमें क्या चाहिए?",
+                  "options": ["रचनात्मकता", "संसाधन", "दोनों"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "चीजें बनाना क्यों महत्वपूर्ण है?",
+                  "options": ["व्यक्तिगत उपयोग के लिए", "रचनात्मकता के लिए", "दोनों"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "कुछ बनाने का पहला कदम क्या है?",
+                  "options": ["योजना बनाना", "संसाधन जुटाना", "काम शुरू करना"],
+                  "answerIndex": 0
+                }
+              ]
+            },
+            {
+              "topic": "कचरे की जिम्मेदारी लेना",
+              "video": "/data/videos/taking-charge-of-waste.mp4",
+              "language": "hindi",
+              "quiz": [
+                {
+                  "question": "कचरा प्रबंधन क्या है?",
+                  "options": ["कचरा फेंकना", "पुनर्चक्रण", "कचरे का सही निपटान और पुनः उपयोग"],
+                  "answerIndex": 2
+                },
+                {
+                  "question": "कचरे का प्रबंधन करना क्यों जरूरी है?",
+                  "options": ["पर्यावरण को साफ रखने के लिए", "अधिक कचरा बनाने के लिए", "सब कुछ नष्ट करने के लिए"],
+                  "answerIndex": 0
+                },
+                {
+                  "question": "हम कचरे को कैसे कम कर सकते हैं?",
+                  "options": ["चीजों का पुनः उपयोग करके", "कचरा जलाकर", "सब कुछ फेंककर"],
+                  "answerIndex": 0
+                }
+              ]
+            }
+          ]
+          
+      
