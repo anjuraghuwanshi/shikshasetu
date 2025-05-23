@@ -1,10 +1,10 @@
 // src/components/DiagramViewer.js
 import React from 'react';
 
-function VideoComponent({ topic, onBack }) {
+function VideoComponent({ topic, onExit }) {
   return (
     <div style={{ padding: '1rem' }}>
-      <button onClick={onBack} style={{ marginBottom: '1rem' }}>← Back</button>
+      <button onClick={onExit} style={{ marginBottom: '1rem' }}>← Back</button>
       <h2>{topic.name} -  Video</h2>
       {topic.video? (
 <video

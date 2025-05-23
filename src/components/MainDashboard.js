@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { initDB } from '../utils/db';
 import QuizComponent from './QuizComponent';
-import NotesComponent from './ArticleComponent';
+import ArticleComponent from './ArticleComponent';
 import VideoComponent from './VideoComponent';
 import '../css/MainDashboard.css'
 function MainDashboard({ onBackToWelcome, profile }) {
@@ -128,7 +128,7 @@ function MainDashboard({ onBackToWelcome, profile }) {
 <div className="dashboard-container">
 {topics.length > 0 && (
 <div className="progress-container">
-  <h2>Welcome to Class {profile.class}, {profile.name}</h2>
+  <h2>Welcome to Class {profile.class}, {profile.name} 👋</h2>
 
   <div className="progress-ring">
     <div
@@ -208,8 +208,8 @@ function MainDashboard({ onBackToWelcome, profile }) {
           
           <div className="modal-actions">
             <h4>Choose an option:</h4>
-            {viewingTopic.notes && (
-              <button onClick={() => setActionChoice('notes')}>📘 View Notes</button>
+            {viewingTopic.article && (
+              <button onClick={() => setActionChoice('article')}>📘 View Article</button>
             )}
             {viewingTopic.video && (
               <button onClick={() => setActionChoice('video')}>🎥 Watch Video</button>
@@ -220,8 +220,8 @@ function MainDashboard({ onBackToWelcome, profile }) {
           </div>
         )}
 
-        {actionChoice === 'notes' && (
-          <NotesComponent topic={viewingTopic} onExit={handleExit} />
+        {actionChoice === 'article' && (
+          <ArticleComponent topic={viewingTopic} onExit={handleExit} />
         )}
 
         {actionChoice === 'video' && (

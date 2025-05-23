@@ -37,7 +37,7 @@ function WelcomeScreen({ profile, onProceed, onCreateNew, onSwitchProfile }) {
 
   return (
     <div style={{ padding: '1rem' }}>
-      <h2>Welcome back to EduBattle, {profile?.name || 'Student'} 👋</h2>
+      <h2>Welcome back to Shikshasetu, {profile?.name || 'Student'} 👋</h2>
       <p>You're in Class {profile?.class} - Language: {profile?.language}</p>
 
       <button onClick={onProceed} style={{ margin: '1rem 1rem 1rem 0' }}>
