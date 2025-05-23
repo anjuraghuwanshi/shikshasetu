@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shikshasetu/static/css/main.821990c4.css",
-    "main.js": "/shikshasetu/static/js/main.c49122a1.js",
+    "main.css": "/shikshasetu/static/css/main.cd5d4e63.css",
+    "main.js": "/shikshasetu/static/js/main.cfe37875.js",
     "static/js/488.4731fac8.chunk.js": "/shikshasetu/static/js/488.4731fac8.chunk.js",
     "service-worker.js": "/shikshasetu/service-worker.js",
     "index.html": "/shikshasetu/index.html",
-    "main.821990c4.css.map": "/shikshasetu/static/css/main.821990c4.css.map",
-    "main.c49122a1.js.map": "/shikshasetu/static/js/main.c49122a1.js.map",
+    "main.cd5d4e63.css.map": "/shikshasetu/static/css/main.cd5d4e63.css.map",
+    "main.cfe37875.js.map": "/shikshasetu/static/js/main.cfe37875.js.map",
     "488.4731fac8.chunk.js.map": "/shikshasetu/static/js/488.4731fac8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.821990c4.css",
-    "static/js/main.c49122a1.js"
+    "static/css/main.cd5d4e63.css",
+    "static/js/main.cfe37875.js"
   ]
 }
